@@ -25,7 +25,15 @@ void InitIO()
     _TRISJ5 = 0; //LED Blanche
     _TRISJ4 = 0; // LED Bleue
     _TRISJ11 = 0; // LED Rouge
-    _TRISH10 = 0; // LED Verte 
+    _TRISH10 = 0; // LED Verte
+    
+    //Prend les 2 derniers caractères avec _TRIS 
+    _TRISA9 = 0; // LED Bleu
+    _TRISA10 = 0; // LED Rouge 
+    _TRISH3 = 0; // LED Vert
+    _TRISK15 = 0; // LED Orange
+     _TRISA0 = 0; // LED Blanche
+    
     
 
     

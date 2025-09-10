@@ -8,6 +8,13 @@
 #define LED_ROUGE_1 _LATJ11
 #define LED_VERTE_1 _LATH10
 
+// On définit avec _LATXX
+#define LED_B_1 _LATA9
+#define LED_R_1 _LATA10
+#define LED_O_1 _LATH3
+#define LED_V_1 _LATK15
+#define LED_Bl_1 _LATA0
+
 // Prototypes fonctions
 void InitIO();
 void LockIO();
