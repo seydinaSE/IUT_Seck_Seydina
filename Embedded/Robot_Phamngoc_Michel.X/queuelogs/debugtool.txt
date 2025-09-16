@@ -1,1012 +1,196 @@
-525 1757073142909 XXXX 1757073142909, Thread 525: XXXX 1757073142909, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073142911 XXXX 1757073142911, Thread 525: XXXX 1757073142911, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143012 XXXX 1757073143012, Thread 525: XXXX 1757073143012, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143014 XXXX 1757073143014, Thread 525: XXXX 1757073143014, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143115 XXXX 1757073143115, Thread 525: XXXX 1757073143115, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143117 XXXX 1757073143117, Thread 525: XXXX 1757073143117, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143218 XXXX 1757073143218, Thread 525: XXXX 1757073143218, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143220 XXXX 1757073143220, Thread 525: XXXX 1757073143220, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143319 XXXX 1757073143319, Thread 525: XXXX 1757073143319, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143321 XXXX 1757073143321, Thread 525: XXXX 1757073143321, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143421 XXXX 1757073143421, Thread 525: XXXX 1757073143421, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143423 XXXX 1757073143423, Thread 525: XXXX 1757073143423, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143543 XXXX 1757073143543, Thread 525: XXXX 1757073143543, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143545 XXXX 1757073143545, Thread 525: XXXX 1757073143545, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143651 XXXX 1757073143651, Thread 525: XXXX 1757073143651, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143653 XXXX 1757073143653, Thread 525: XXXX 1757073143653, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143752 XXXX 1757073143752, Thread 525: XXXX 1757073143752, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143754 XXXX 1757073143754, Thread 525: XXXX 1757073143754, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143857 XXXX 1757073143857, Thread 525: XXXX 1757073143857, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143859 XXXX 1757073143859, Thread 525: XXXX 1757073143859, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073143960 XXXX 1757073143960, Thread 525: XXXX 1757073143960, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073143962 XXXX 1757073143962, Thread 525: XXXX 1757073143962, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144067 XXXX 1757073144067, Thread 525: XXXX 1757073144067, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144069 XXXX 1757073144069, Thread 525: XXXX 1757073144069, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144173 XXXX 1757073144173, Thread 525: XXXX 1757073144173, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144175 XXXX 1757073144175, Thread 525: XXXX 1757073144175, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144275 XXXX 1757073144275, Thread 525: XXXX 1757073144275, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144277 XXXX 1757073144277, Thread 525: XXXX 1757073144277, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144376 XXXX 1757073144376, Thread 525: XXXX 1757073144376, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144378 XXXX 1757073144378, Thread 525: XXXX 1757073144378, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144477 XXXX 1757073144477, Thread 525: XXXX 1757073144477, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144479 XXXX 1757073144479, Thread 525: XXXX 1757073144479, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144579 XXXX 1757073144579, Thread 525: XXXX 1757073144579, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144581 XXXX 1757073144581, Thread 525: XXXX 1757073144581, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144691 XXXX 1757073144691, Thread 525: XXXX 1757073144691, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144693 XXXX 1757073144693, Thread 525: XXXX 1757073144693, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144795 XXXX 1757073144795, Thread 525: XXXX 1757073144795, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144798 XXXX 1757073144798, Thread 525: XXXX 1757073144798, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144897 XXXX 1757073144897, Thread 525: XXXX 1757073144897, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073144899 XXXX 1757073144899, Thread 525: XXXX 1757073144899, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073144999 XXXX 1757073144999, Thread 525: XXXX 1757073144999, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145001 XXXX 1757073145001, Thread 525: XXXX 1757073145001, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145102 XXXX 1757073145102, Thread 525: XXXX 1757073145102, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145104 XXXX 1757073145104, Thread 525: XXXX 1757073145104, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145204 XXXX 1757073145204, Thread 525: XXXX 1757073145204, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145206 XXXX 1757073145206, Thread 525: XXXX 1757073145206, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145306 XXXX 1757073145306, Thread 525: XXXX 1757073145306, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145308 XXXX 1757073145308, Thread 525: XXXX 1757073145308, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145409 XXXX 1757073145409, Thread 525: XXXX 1757073145409, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145411 XXXX 1757073145411, Thread 525: XXXX 1757073145411, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145510 XXXX 1757073145510, Thread 525: XXXX 1757073145510, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145512 XXXX 1757073145512, Thread 525: XXXX 1757073145512, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145613 XXXX 1757073145613, Thread 525: XXXX 1757073145613, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145615 XXXX 1757073145615, Thread 525: XXXX 1757073145615, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145719 XXXX 1757073145719, Thread 525: XXXX 1757073145719, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145721 XXXX 1757073145721, Thread 525: XXXX 1757073145721, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145821 XXXX 1757073145821, Thread 525: XXXX 1757073145821, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145823 XXXX 1757073145823, Thread 525: XXXX 1757073145823, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073145923 XXXX 1757073145923, Thread 525: XXXX 1757073145923, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073145930 XXXX 1757073145930, Thread 525: XXXX 1757073145930, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146024 XXXX 1757073146024, Thread 525: XXXX 1757073146024, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146026 XXXX 1757073146026, Thread 525: XXXX 1757073146026, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146128 XXXX 1757073146128, Thread 525: XXXX 1757073146128, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146130 XXXX 1757073146130, Thread 525: XXXX 1757073146130, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146234 XXXX 1757073146234, Thread 525: XXXX 1757073146234, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146236 XXXX 1757073146236, Thread 525: XXXX 1757073146236, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146337 XXXX 1757073146337, Thread 525: XXXX 1757073146337, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146339 XXXX 1757073146339, Thread 525: XXXX 1757073146339, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146439 XXXX 1757073146439, Thread 525: XXXX 1757073146439, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146441 XXXX 1757073146441, Thread 525: XXXX 1757073146441, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146539 XXXX 1757073146539, Thread 525: XXXX 1757073146539, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146541 XXXX 1757073146541, Thread 525: XXXX 1757073146541, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146645 XXXX 1757073146645, Thread 525: XXXX 1757073146645, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146647 XXXX 1757073146647, Thread 525: XXXX 1757073146647, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146747 XXXX 1757073146747, Thread 525: XXXX 1757073146747, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146749 XXXX 1757073146749, Thread 525: XXXX 1757073146749, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146852 XXXX 1757073146852, Thread 525: XXXX 1757073146852, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146854 XXXX 1757073146854, Thread 525: XXXX 1757073146854, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073146952 XXXX 1757073146952, Thread 525: XXXX 1757073146952, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073146954 XXXX 1757073146954, Thread 525: XXXX 1757073146954, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147055 XXXX 1757073147055, Thread 525: XXXX 1757073147055, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147057 XXXX 1757073147057, Thread 525: XXXX 1757073147057, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147159 XXXX 1757073147159, Thread 525: XXXX 1757073147159, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147161 XXXX 1757073147161, Thread 525: XXXX 1757073147161, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147261 XXXX 1757073147261, Thread 525: XXXX 1757073147261, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147263 XXXX 1757073147263, Thread 525: XXXX 1757073147263, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147365 XXXX 1757073147365, Thread 525: XXXX 1757073147365, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147367 XXXX 1757073147367, Thread 525: XXXX 1757073147367, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147467 XXXX 1757073147467, Thread 525: XXXX 1757073147467, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147469 XXXX 1757073147469, Thread 525: XXXX 1757073147469, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147570 XXXX 1757073147570, Thread 525: XXXX 1757073147570, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147572 XXXX 1757073147572, Thread 525: XXXX 1757073147572, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147672 XXXX 1757073147672, Thread 525: XXXX 1757073147672, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147674 XXXX 1757073147674, Thread 525: XXXX 1757073147674, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147787 XXXX 1757073147787, Thread 525: XXXX 1757073147787, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147789 XXXX 1757073147789, Thread 525: XXXX 1757073147789, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147889 XXXX 1757073147889, Thread 525: XXXX 1757073147889, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147891 XXXX 1757073147891, Thread 525: XXXX 1757073147891, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073147990 XXXX 1757073147990, Thread 525: XXXX 1757073147990, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073147992 XXXX 1757073147992, Thread 525: XXXX 1757073147992, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148091 XXXX 1757073148091, Thread 525: XXXX 1757073148091, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148093 XXXX 1757073148093, Thread 525: XXXX 1757073148093, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148199 XXXX 1757073148199, Thread 525: XXXX 1757073148199, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148201 XXXX 1757073148201, Thread 525: XXXX 1757073148201, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148301 XXXX 1757073148301, Thread 525: XXXX 1757073148301, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148303 XXXX 1757073148303, Thread 525: XXXX 1757073148303, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148403 XXXX 1757073148403, Thread 525: XXXX 1757073148403, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148405 XXXX 1757073148405, Thread 525: XXXX 1757073148405, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148506 XXXX 1757073148506, Thread 525: XXXX 1757073148506, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148508 XXXX 1757073148508, Thread 525: XXXX 1757073148508, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148608 XXXX 1757073148608, Thread 525: XXXX 1757073148608, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148610 XXXX 1757073148610, Thread 525: XXXX 1757073148610, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148711 XXXX 1757073148711, Thread 525: XXXX 1757073148711, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148713 XXXX 1757073148713, Thread 525: XXXX 1757073148713, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148813 XXXX 1757073148813, Thread 525: XXXX 1757073148813, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148815 XXXX 1757073148815, Thread 525: XXXX 1757073148815, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073148915 XXXX 1757073148915, Thread 525: XXXX 1757073148915, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073148917 XXXX 1757073148917, Thread 525: XXXX 1757073148917, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149018 XXXX 1757073149018, Thread 525: XXXX 1757073149018, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149020 XXXX 1757073149020, Thread 525: XXXX 1757073149020, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149118 XXXX 1757073149118, Thread 525: XXXX 1757073149118, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149120 XXXX 1757073149120, Thread 525: XXXX 1757073149120, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149221 XXXX 1757073149221, Thread 525: XXXX 1757073149221, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149223 XXXX 1757073149223, Thread 525: XXXX 1757073149223, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149325 XXXX 1757073149325, Thread 525: XXXX 1757073149325, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149327 XXXX 1757073149327, Thread 525: XXXX 1757073149327, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149427 XXXX 1757073149427, Thread 525: XXXX 1757073149427, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149429 XXXX 1757073149429, Thread 525: XXXX 1757073149429, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149530 XXXX 1757073149530, Thread 525: XXXX 1757073149530, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149532 XXXX 1757073149532, Thread 525: XXXX 1757073149532, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149632 XXXX 1757073149632, Thread 525: XXXX 1757073149632, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149634 XXXX 1757073149634, Thread 525: XXXX 1757073149634, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149734 XXXX 1757073149734, Thread 525: XXXX 1757073149734, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149735 XXXX 1757073149735, Thread 525: XXXX 1757073149735, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149837 XXXX 1757073149837, Thread 525: XXXX 1757073149837, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149839 XXXX 1757073149839, Thread 525: XXXX 1757073149839, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073149937 XXXX 1757073149937, Thread 525: XXXX 1757073149937, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073149939 XXXX 1757073149939, Thread 525: XXXX 1757073149939, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150037 XXXX 1757073150037, Thread 525: XXXX 1757073150037, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150039 XXXX 1757073150039, Thread 525: XXXX 1757073150039, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150144 XXXX 1757073150144, Thread 525: XXXX 1757073150144, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150146 XXXX 1757073150146, Thread 525: XXXX 1757073150146, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150247 XXXX 1757073150247, Thread 525: XXXX 1757073150247, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150249 XXXX 1757073150249, Thread 525: XXXX 1757073150249, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150348 XXXX 1757073150348, Thread 525: XXXX 1757073150348, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150350 XXXX 1757073150350, Thread 525: XXXX 1757073150350, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150452 XXXX 1757073150451, Thread 525: XXXX 1757073150451, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150453 XXXX 1757073150453, Thread 525: XXXX 1757073150453, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150554 XXXX 1757073150554, Thread 525: XXXX 1757073150554, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150556 XXXX 1757073150556, Thread 525: XXXX 1757073150556, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150655 XXXX 1757073150655, Thread 525: XXXX 1757073150655, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150657 XXXX 1757073150657, Thread 525: XXXX 1757073150657, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150759 XXXX 1757073150759, Thread 525: XXXX 1757073150759, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150767 XXXX 1757073150767, Thread 525: XXXX 1757073150767, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150859 XXXX 1757073150859, Thread 525: XXXX 1757073150859, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150861 XXXX 1757073150861, Thread 525: XXXX 1757073150861, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073150963 XXXX 1757073150963, Thread 525: XXXX 1757073150963, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073150965 XXXX 1757073150965, Thread 525: XXXX 1757073150965, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151066 XXXX 1757073151066, Thread 525: XXXX 1757073151066, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151068 XXXX 1757073151068, Thread 525: XXXX 1757073151068, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151173 XXXX 1757073151173, Thread 525: XXXX 1757073151173, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151175 XXXX 1757073151175, Thread 525: XXXX 1757073151175, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151279 XXXX 1757073151279, Thread 525: XXXX 1757073151279, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151281 XXXX 1757073151281, Thread 525: XXXX 1757073151281, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151385 XXXX 1757073151385, Thread 525: XXXX 1757073151385, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151387 XXXX 1757073151387, Thread 525: XXXX 1757073151387, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151487 XXXX 1757073151487, Thread 525: XXXX 1757073151487, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151489 XXXX 1757073151489, Thread 525: XXXX 1757073151489, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151589 XXXX 1757073151589, Thread 525: XXXX 1757073151589, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151591 XXXX 1757073151591, Thread 525: XXXX 1757073151591, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151693 XXXX 1757073151693, Thread 525: XXXX 1757073151693, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151695 XXXX 1757073151695, Thread 525: XXXX 1757073151695, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151801 XXXX 1757073151801, Thread 525: XXXX 1757073151801, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151803 XXXX 1757073151803, Thread 525: XXXX 1757073151803, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073151902 XXXX 1757073151902, Thread 525: XXXX 1757073151902, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073151904 XXXX 1757073151904, Thread 525: XXXX 1757073151904, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152013 XXXX 1757073152013, Thread 525: XXXX 1757073152013, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152015 XXXX 1757073152015, Thread 525: XXXX 1757073152015, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152121 XXXX 1757073152121, Thread 525: XXXX 1757073152121, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152123 XXXX 1757073152123, Thread 525: XXXX 1757073152123, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152237 XXXX 1757073152237, Thread 525: XXXX 1757073152237, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152239 XXXX 1757073152239, Thread 525: XXXX 1757073152239, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152339 XXXX 1757073152339, Thread 525: XXXX 1757073152339, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152341 XXXX 1757073152341, Thread 525: XXXX 1757073152341, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152441 XXXX 1757073152441, Thread 525: XXXX 1757073152441, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152443 XXXX 1757073152443, Thread 525: XXXX 1757073152443, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152544 XXXX 1757073152544, Thread 525: XXXX 1757073152544, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152546 XXXX 1757073152546, Thread 525: XXXX 1757073152546, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152651 XXXX 1757073152651, Thread 525: XXXX 1757073152651, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152653 XXXX 1757073152653, Thread 525: XXXX 1757073152653, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152761 XXXX 1757073152761, Thread 525: XXXX 1757073152761, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152763 XXXX 1757073152763, Thread 525: XXXX 1757073152763, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152872 XXXX 1757073152872, Thread 525: XXXX 1757073152872, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152874 XXXX 1757073152874, Thread 525: XXXX 1757073152874, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073152975 XXXX 1757073152975, Thread 525: XXXX 1757073152975, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073152977 XXXX 1757073152977, Thread 525: XXXX 1757073152977, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153078 XXXX 1757073153078, Thread 525: XXXX 1757073153078, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153080 XXXX 1757073153080, Thread 525: XXXX 1757073153080, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153179 XXXX 1757073153179, Thread 525: XXXX 1757073153179, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153181 XXXX 1757073153181, Thread 525: XXXX 1757073153181, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153285 XXXX 1757073153285, Thread 525: XXXX 1757073153285, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153287 XXXX 1757073153287, Thread 525: XXXX 1757073153287, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153387 XXXX 1757073153387, Thread 525: XXXX 1757073153387, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153389 XXXX 1757073153389, Thread 525: XXXX 1757073153389, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153490 XXXX 1757073153490, Thread 525: XXXX 1757073153490, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153492 XXXX 1757073153492, Thread 525: XXXX 1757073153492, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153593 XXXX 1757073153593, Thread 525: XXXX 1757073153593, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153595 XXXX 1757073153595, Thread 525: XXXX 1757073153595, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153696 XXXX 1757073153696, Thread 525: XXXX 1757073153696, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153698 XXXX 1757073153698, Thread 525: XXXX 1757073153698, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153803 XXXX 1757073153803, Thread 525: XXXX 1757073153803, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153810 XXXX 1757073153810, Thread 525: XXXX 1757073153810, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073153908 XXXX 1757073153908, Thread 525: XXXX 1757073153908, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073153910 XXXX 1757073153910, Thread 525: XXXX 1757073153910, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154011 XXXX 1757073154011, Thread 525: XXXX 1757073154011, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154013 XXXX 1757073154013, Thread 525: XXXX 1757073154013, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154123 XXXX 1757073154123, Thread 525: XXXX 1757073154123, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154125 XXXX 1757073154125, Thread 525: XXXX 1757073154125, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154228 XXXX 1757073154228, Thread 525: XXXX 1757073154228, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154230 XXXX 1757073154230, Thread 525: XXXX 1757073154230, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154331 XXXX 1757073154331, Thread 525: XXXX 1757073154331, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154333 XXXX 1757073154333, Thread 525: XXXX 1757073154333, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154433 XXXX 1757073154433, Thread 525: XXXX 1757073154433, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154435 XXXX 1757073154435, Thread 525: XXXX 1757073154435, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154535 XXXX 1757073154535, Thread 525: XXXX 1757073154535, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154537 XXXX 1757073154537, Thread 525: XXXX 1757073154537, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154650 XXXX 1757073154650, Thread 525: XXXX 1757073154650, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154652 XXXX 1757073154652, Thread 525: XXXX 1757073154652, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154752 XXXX 1757073154752, Thread 525: XXXX 1757073154752, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154754 XXXX 1757073154754, Thread 525: XXXX 1757073154754, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154855 XXXX 1757073154855, Thread 525: XXXX 1757073154855, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154856 XXXX 1757073154856, Thread 525: XXXX 1757073154856, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073154957 XXXX 1757073154957, Thread 525: XXXX 1757073154957, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073154959 XXXX 1757073154959, Thread 525: XXXX 1757073154959, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155059 XXXX 1757073155059, Thread 525: XXXX 1757073155059, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155061 XXXX 1757073155061, Thread 525: XXXX 1757073155061, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155162 XXXX 1757073155162, Thread 525: XXXX 1757073155162, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155164 XXXX 1757073155164, Thread 525: XXXX 1757073155164, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155264 XXXX 1757073155264, Thread 525: XXXX 1757073155264, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155266 XXXX 1757073155266, Thread 525: XXXX 1757073155266, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155367 XXXX 1757073155367, Thread 525: XXXX 1757073155367, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155368 XXXX 1757073155368, Thread 525: XXXX 1757073155368, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155469 XXXX 1757073155469, Thread 525: XXXX 1757073155469, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155470 XXXX 1757073155470, Thread 525: XXXX 1757073155470, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155571 XXXX 1757073155571, Thread 525: XXXX 1757073155571, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155573 XXXX 1757073155573, Thread 525: XXXX 1757073155573, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155673 XXXX 1757073155673, Thread 525: XXXX 1757073155673, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155675 XXXX 1757073155675, Thread 525: XXXX 1757073155675, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155775 XXXX 1757073155775, Thread 525: XXXX 1757073155775, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155777 XXXX 1757073155777, Thread 525: XXXX 1757073155777, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155879 XXXX 1757073155879, Thread 525: XXXX 1757073155879, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155881 XXXX 1757073155881, Thread 525: XXXX 1757073155881, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073155982 XXXX 1757073155982, Thread 525: XXXX 1757073155982, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073155983 XXXX 1757073155983, Thread 525: XXXX 1757073155983, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156083 XXXX 1757073156083, Thread 525: XXXX 1757073156083, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156085 XXXX 1757073156085, Thread 525: XXXX 1757073156085, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156186 XXXX 1757073156186, Thread 525: XXXX 1757073156186, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156188 XXXX 1757073156188, Thread 525: XXXX 1757073156188, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156288 XXXX 1757073156288, Thread 525: XXXX 1757073156288, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156290 XXXX 1757073156290, Thread 525: XXXX 1757073156290, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156391 XXXX 1757073156391, Thread 525: XXXX 1757073156391, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156393 XXXX 1757073156393, Thread 525: XXXX 1757073156393, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156493 XXXX 1757073156493, Thread 525: XXXX 1757073156493, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156495 XXXX 1757073156495, Thread 525: XXXX 1757073156495, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156595 XXXX 1757073156595, Thread 525: XXXX 1757073156595, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156597 XXXX 1757073156597, Thread 525: XXXX 1757073156597, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156698 XXXX 1757073156698, Thread 525: XXXX 1757073156698, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156700 XXXX 1757073156700, Thread 525: XXXX 1757073156700, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156800 XXXX 1757073156800, Thread 525: XXXX 1757073156800, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156802 XXXX 1757073156802, Thread 525: XXXX 1757073156802, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073156903 XXXX 1757073156903, Thread 525: XXXX 1757073156903, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073156905 XXXX 1757073156905, Thread 525: XXXX 1757073156905, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157005 XXXX 1757073157005, Thread 525: XXXX 1757073157005, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157007 XXXX 1757073157007, Thread 525: XXXX 1757073157007, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157107 XXXX 1757073157107, Thread 525: XXXX 1757073157107, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157109 XXXX 1757073157109, Thread 525: XXXX 1757073157109, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157209 XXXX 1757073157209, Thread 525: XXXX 1757073157209, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157211 XXXX 1757073157211, Thread 525: XXXX 1757073157211, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157310 XXXX 1757073157310, Thread 525: XXXX 1757073157310, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157312 XXXX 1757073157312, Thread 525: XXXX 1757073157312, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157415 XXXX 1757073157415, Thread 525: XXXX 1757073157415, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157417 XXXX 1757073157417, Thread 525: XXXX 1757073157417, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157517 XXXX 1757073157517, Thread 525: XXXX 1757073157517, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157519 XXXX 1757073157519, Thread 525: XXXX 1757073157519, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157620 XXXX 1757073157620, Thread 525: XXXX 1757073157620, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157621 XXXX 1757073157621, Thread 525: XXXX 1757073157621, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157721 XXXX 1757073157721, Thread 525: XXXX 1757073157721, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157723 XXXX 1757073157723, Thread 525: XXXX 1757073157723, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157824 XXXX 1757073157824, Thread 525: XXXX 1757073157824, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157826 XXXX 1757073157826, Thread 525: XXXX 1757073157826, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073157927 XXXX 1757073157927, Thread 525: XXXX 1757073157927, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073157943 XXXX 1757073157943, Thread 525: XXXX 1757073157943, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158027 XXXX 1757073158027, Thread 525: XXXX 1757073158027, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158029 XXXX 1757073158029, Thread 525: XXXX 1757073158029, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158129 XXXX 1757073158129, Thread 525: XXXX 1757073158129, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158131 XXXX 1757073158131, Thread 525: XXXX 1757073158131, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158232 XXXX 1757073158232, Thread 525: XXXX 1757073158232, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158234 XXXX 1757073158234, Thread 525: XXXX 1757073158234, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158336 XXXX 1757073158336, Thread 525: XXXX 1757073158336, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158338 XXXX 1757073158338, Thread 525: XXXX 1757073158338, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158439 XXXX 1757073158439, Thread 525: XXXX 1757073158439, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158440 XXXX 1757073158440, Thread 525: XXXX 1757073158440, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158541 XXXX 1757073158541, Thread 525: XXXX 1757073158541, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158543 XXXX 1757073158543, Thread 525: XXXX 1757073158543, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158644 XXXX 1757073158644, Thread 525: XXXX 1757073158644, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158645 XXXX 1757073158645, Thread 525: XXXX 1757073158645, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158745 XXXX 1757073158745, Thread 525: XXXX 1757073158745, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158747 XXXX 1757073158747, Thread 525: XXXX 1757073158747, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158848 XXXX 1757073158848, Thread 525: XXXX 1757073158848, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158850 XXXX 1757073158850, Thread 525: XXXX 1757073158850, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073158951 XXXX 1757073158951, Thread 525: XXXX 1757073158951, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073158952 XXXX 1757073158952, Thread 525: XXXX 1757073158952, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159053 XXXX 1757073159053, Thread 525: XXXX 1757073159053, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159055 XXXX 1757073159055, Thread 525: XXXX 1757073159055, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159155 XXXX 1757073159155, Thread 525: XXXX 1757073159155, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159157 XXXX 1757073159157, Thread 525: XXXX 1757073159157, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159258 XXXX 1757073159258, Thread 525: XXXX 1757073159258, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159259 XXXX 1757073159259, Thread 525: XXXX 1757073159259, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159360 XXXX 1757073159360, Thread 525: XXXX 1757073159360, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159362 XXXX 1757073159362, Thread 525: XXXX 1757073159362, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159463 XXXX 1757073159463, Thread 525: XXXX 1757073159463, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159465 XXXX 1757073159465, Thread 525: XXXX 1757073159465, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159564 XXXX 1757073159564, Thread 525: XXXX 1757073159564, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159566 XXXX 1757073159566, Thread 525: XXXX 1757073159566, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159667 XXXX 1757073159667, Thread 525: XXXX 1757073159667, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159669 XXXX 1757073159669, Thread 525: XXXX 1757073159669, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159770 XXXX 1757073159770, Thread 525: XXXX 1757073159770, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159772 XXXX 1757073159772, Thread 525: XXXX 1757073159772, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159872 XXXX 1757073159872, Thread 525: XXXX 1757073159872, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159874 XXXX 1757073159874, Thread 525: XXXX 1757073159874, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073159975 XXXX 1757073159975, Thread 525: XXXX 1757073159975, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073159976 XXXX 1757073159976, Thread 525: XXXX 1757073159976, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160077 XXXX 1757073160077, Thread 525: XXXX 1757073160077, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160079 XXXX 1757073160079, Thread 525: XXXX 1757073160079, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160179 XXXX 1757073160179, Thread 525: XXXX 1757073160179, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160181 XXXX 1757073160181, Thread 525: XXXX 1757073160181, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160282 XXXX 1757073160282, Thread 525: XXXX 1757073160282, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160284 XXXX 1757073160284, Thread 525: XXXX 1757073160284, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160384 XXXX 1757073160384, Thread 525: XXXX 1757073160384, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160387 XXXX 1757073160387, Thread 525: XXXX 1757073160387, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160484 XXXX 1757073160484, Thread 525: XXXX 1757073160484, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160486 XXXX 1757073160486, Thread 525: XXXX 1757073160486, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160589 XXXX 1757073160589, Thread 525: XXXX 1757073160589, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160591 XXXX 1757073160591, Thread 525: XXXX 1757073160591, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160691 XXXX 1757073160691, Thread 525: XXXX 1757073160691, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160693 XXXX 1757073160693, Thread 525: XXXX 1757073160693, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160794 XXXX 1757073160794, Thread 525: XXXX 1757073160794, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160796 XXXX 1757073160796, Thread 525: XXXX 1757073160796, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160896 XXXX 1757073160896, Thread 525: XXXX 1757073160896, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160898 XXXX 1757073160898, Thread 525: XXXX 1757073160898, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073160997 XXXX 1757073160997, Thread 525: XXXX 1757073160997, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073160999 XXXX 1757073160999, Thread 525: XXXX 1757073160999, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161101 XXXX 1757073161101, Thread 525: XXXX 1757073161101, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161105 XXXX 1757073161105, Thread 525: XXXX 1757073161105, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161210 XXXX 1757073161210, Thread 525: XXXX 1757073161210, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161212 XXXX 1757073161212, Thread 525: XXXX 1757073161212, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161321 XXXX 1757073161321, Thread 525: XXXX 1757073161321, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161325 XXXX 1757073161325, Thread 525: XXXX 1757073161325, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161423 XXXX 1757073161423, Thread 525: XXXX 1757073161423, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161425 XXXX 1757073161425, Thread 525: XXXX 1757073161425, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161525 XXXX 1757073161525, Thread 525: XXXX 1757073161525, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161526 XXXX 1757073161526, Thread 525: XXXX 1757073161526, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161628 XXXX 1757073161628, Thread 525: XXXX 1757073161628, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161629 XXXX 1757073161629, Thread 525: XXXX 1757073161629, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161731 XXXX 1757073161731, Thread 525: XXXX 1757073161731, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161732 XXXX 1757073161732, Thread 525: XXXX 1757073161732, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161834 XXXX 1757073161834, Thread 525: XXXX 1757073161834, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161836 XXXX 1757073161836, Thread 525: XXXX 1757073161836, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073161937 XXXX 1757073161937, Thread 525: XXXX 1757073161937, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073161938 XXXX 1757073161938, Thread 525: XXXX 1757073161938, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162040 XXXX 1757073162040, Thread 525: XXXX 1757073162040, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162042 XXXX 1757073162042, Thread 525: XXXX 1757073162042, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162141 XXXX 1757073162141, Thread 525: XXXX 1757073162141, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162143 XXXX 1757073162143, Thread 525: XXXX 1757073162143, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162244 XXXX 1757073162244, Thread 525: XXXX 1757073162244, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162245 XXXX 1757073162245, Thread 525: XXXX 1757073162245, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162347 XXXX 1757073162347, Thread 525: XXXX 1757073162347, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162348 XXXX 1757073162348, Thread 525: XXXX 1757073162348, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162449 XXXX 1757073162449, Thread 525: XXXX 1757073162449, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162451 XXXX 1757073162451, Thread 525: XXXX 1757073162451, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162554 XXXX 1757073162554, Thread 525: XXXX 1757073162554, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162555 XXXX 1757073162555, Thread 525: XXXX 1757073162555, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162655 XXXX 1757073162655, Thread 525: XXXX 1757073162655, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162657 XXXX 1757073162657, Thread 525: XXXX 1757073162657, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162759 XXXX 1757073162759, Thread 525: XXXX 1757073162759, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162760 XXXX 1757073162760, Thread 525: XXXX 1757073162760, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162873 XXXX 1757073162873, Thread 525: XXXX 1757073162873, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162875 XXXX 1757073162875, Thread 525: XXXX 1757073162875, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073162973 XXXX 1757073162973, Thread 525: XXXX 1757073162973, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073162975 XXXX 1757073162975, Thread 525: XXXX 1757073162975, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163081 XXXX 1757073163081, Thread 525: XXXX 1757073163081, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163083 XXXX 1757073163083, Thread 525: XXXX 1757073163083, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163193 XXXX 1757073163193, Thread 525: XXXX 1757073163193, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163194 XXXX 1757073163194, Thread 525: XXXX 1757073163194, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163298 XXXX 1757073163298, Thread 525: XXXX 1757073163298, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163299 XXXX 1757073163299, Thread 525: XXXX 1757073163299, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163400 XXXX 1757073163400, Thread 525: XXXX 1757073163400, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163401 XXXX 1757073163401, Thread 525: XXXX 1757073163401, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163511 XXXX 1757073163511, Thread 525: XXXX 1757073163511, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163513 XXXX 1757073163513, Thread 525: XXXX 1757073163513, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163618 XXXX 1757073163618, Thread 525: XXXX 1757073163618, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163619 XXXX 1757073163619, Thread 525: XXXX 1757073163619, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163720 XXXX 1757073163720, Thread 525: XXXX 1757073163720, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163722 XXXX 1757073163722, Thread 525: XXXX 1757073163722, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163830 XXXX 1757073163830, Thread 525: XXXX 1757073163830, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163831 XXXX 1757073163831, Thread 525: XXXX 1757073163831, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073163930 XXXX 1757073163930, Thread 525: XXXX 1757073163930, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073163932 XXXX 1757073163932, Thread 525: XXXX 1757073163932, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164035 XXXX 1757073164035, Thread 525: XXXX 1757073164035, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164036 XXXX 1757073164036, Thread 525: XXXX 1757073164036, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164143 XXXX 1757073164143, Thread 525: XXXX 1757073164143, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164144 XXXX 1757073164144, Thread 525: XXXX 1757073164144, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164247 XXXX 1757073164247, Thread 525: XXXX 1757073164247, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164248 XXXX 1757073164248, Thread 525: XXXX 1757073164248, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164349 XXXX 1757073164349, Thread 525: XXXX 1757073164349, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164351 XXXX 1757073164351, Thread 525: XXXX 1757073164351, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164450 XXXX 1757073164450, Thread 525: XXXX 1757073164450, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164451 XXXX 1757073164451, Thread 525: XXXX 1757073164451, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164553 XXXX 1757073164553, Thread 525: XXXX 1757073164553, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164555 XXXX 1757073164555, Thread 525: XXXX 1757073164555, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164657 XXXX 1757073164657, Thread 525: XXXX 1757073164657, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164659 XXXX 1757073164659, Thread 525: XXXX 1757073164659, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164764 XXXX 1757073164764, Thread 525: XXXX 1757073164764, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164765 XXXX 1757073164765, Thread 525: XXXX 1757073164765, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164868 XXXX 1757073164868, Thread 525: XXXX 1757073164868, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164869 XXXX 1757073164869, Thread 525: XXXX 1757073164869, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073164971 XXXX 1757073164971, Thread 525: XXXX 1757073164971, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073164972 XXXX 1757073164972, Thread 525: XXXX 1757073164972, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165073 XXXX 1757073165073, Thread 525: XXXX 1757073165073, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165080 XXXX 1757073165080, Thread 525: XXXX 1757073165080, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165174 XXXX 1757073165174, Thread 525: XXXX 1757073165174, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165175 XXXX 1757073165175, Thread 525: XXXX 1757073165175, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165277 XXXX 1757073165277, Thread 525: XXXX 1757073165277, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165278 XXXX 1757073165278, Thread 525: XXXX 1757073165278, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165389 XXXX 1757073165389, Thread 525: XXXX 1757073165389, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165391 XXXX 1757073165391, Thread 525: XXXX 1757073165391, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165499 XXXX 1757073165499, Thread 525: XXXX 1757073165499, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165500 XXXX 1757073165500, Thread 525: XXXX 1757073165500, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165607 XXXX 1757073165607, Thread 525: XXXX 1757073165607, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165609 XXXX 1757073165609, Thread 525: XXXX 1757073165609, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165708 XXXX 1757073165708, Thread 525: XXXX 1757073165708, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165709 XXXX 1757073165709, Thread 525: XXXX 1757073165709, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165812 XXXX 1757073165812, Thread 525: XXXX 1757073165812, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165814 XXXX 1757073165814, Thread 525: XXXX 1757073165814, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073165914 XXXX 1757073165914, Thread 525: XXXX 1757073165914, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073165916 XXXX 1757073165916, Thread 525: XXXX 1757073165916, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166017 XXXX 1757073166017, Thread 525: XXXX 1757073166017, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166018 XXXX 1757073166018, Thread 525: XXXX 1757073166018, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166119 XXXX 1757073166119, Thread 525: XXXX 1757073166119, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166121 XXXX 1757073166121, Thread 525: XXXX 1757073166121, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166222 XXXX 1757073166222, Thread 525: XXXX 1757073166222, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166223 XXXX 1757073166223, Thread 525: XXXX 1757073166223, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166323 XXXX 1757073166323, Thread 525: XXXX 1757073166323, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166325 XXXX 1757073166325, Thread 525: XXXX 1757073166325, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166426 XXXX 1757073166426, Thread 525: XXXX 1757073166426, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166428 XXXX 1757073166428, Thread 525: XXXX 1757073166428, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166529 XXXX 1757073166529, Thread 525: XXXX 1757073166529, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166530 XXXX 1757073166530, Thread 525: XXXX 1757073166530, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166631 XXXX 1757073166631, Thread 525: XXXX 1757073166631, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166633 XXXX 1757073166633, Thread 525: XXXX 1757073166633, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166734 XXXX 1757073166734, Thread 525: XXXX 1757073166734, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166735 XXXX 1757073166735, Thread 525: XXXX 1757073166735, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166836 XXXX 1757073166836, Thread 525: XXXX 1757073166836, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166837 XXXX 1757073166837, Thread 525: XXXX 1757073166837, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073166938 XXXX 1757073166938, Thread 525: XXXX 1757073166938, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073166940 XXXX 1757073166940, Thread 525: XXXX 1757073166940, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167040 XXXX 1757073167040, Thread 525: XXXX 1757073167040, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167041 XXXX 1757073167041, Thread 525: XXXX 1757073167041, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167142 XXXX 1757073167142, Thread 525: XXXX 1757073167142, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167144 XXXX 1757073167144, Thread 525: XXXX 1757073167144, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167245 XXXX 1757073167245, Thread 525: XXXX 1757073167245, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167247 XXXX 1757073167247, Thread 525: XXXX 1757073167247, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167348 XXXX 1757073167348, Thread 525: XXXX 1757073167348, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167349 XXXX 1757073167349, Thread 525: XXXX 1757073167349, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167450 XXXX 1757073167450, Thread 525: XXXX 1757073167450, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167451 XXXX 1757073167451, Thread 525: XXXX 1757073167451, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167553 XXXX 1757073167553, Thread 525: XXXX 1757073167553, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167554 XXXX 1757073167554, Thread 525: XXXX 1757073167554, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167655 XXXX 1757073167655, Thread 525: XXXX 1757073167655, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167657 XXXX 1757073167657, Thread 525: XXXX 1757073167657, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167757 XXXX 1757073167757, Thread 525: XXXX 1757073167757, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167758 XXXX 1757073167758, Thread 525: XXXX 1757073167758, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167860 XXXX 1757073167860, Thread 525: XXXX 1757073167860, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167861 XXXX 1757073167861, Thread 525: XXXX 1757073167861, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073167961 XXXX 1757073167961, Thread 525: XXXX 1757073167961, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073167963 XXXX 1757073167963, Thread 525: XXXX 1757073167963, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168065 XXXX 1757073168065, Thread 525: XXXX 1757073168065, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168067 XXXX 1757073168067, Thread 525: XXXX 1757073168067, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168167 XXXX 1757073168167, Thread 525: XXXX 1757073168167, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168169 XXXX 1757073168169, Thread 525: XXXX 1757073168169, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168270 XXXX 1757073168270, Thread 525: XXXX 1757073168270, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168271 XXXX 1757073168271, Thread 525: XXXX 1757073168271, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168372 XXXX 1757073168372, Thread 525: XXXX 1757073168372, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168373 XXXX 1757073168373, Thread 525: XXXX 1757073168373, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168474 XXXX 1757073168474, Thread 525: XXXX 1757073168474, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168476 XXXX 1757073168476, Thread 525: XXXX 1757073168476, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168577 XXXX 1757073168577, Thread 525: XXXX 1757073168577, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168578 XXXX 1757073168578, Thread 525: XXXX 1757073168578, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168679 XXXX 1757073168679, Thread 525: XXXX 1757073168679, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168681 XXXX 1757073168681, Thread 525: XXXX 1757073168681, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168782 XXXX 1757073168782, Thread 525: XXXX 1757073168782, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168783 XXXX 1757073168783, Thread 525: XXXX 1757073168783, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168884 XXXX 1757073168884, Thread 525: XXXX 1757073168884, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168886 XXXX 1757073168886, Thread 525: XXXX 1757073168886, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073168986 XXXX 1757073168986, Thread 525: XXXX 1757073168986, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073168988 XXXX 1757073168988, Thread 525: XXXX 1757073168988, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169089 XXXX 1757073169089, Thread 525: XXXX 1757073169089, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169090 XXXX 1757073169090, Thread 525: XXXX 1757073169090, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169191 XXXX 1757073169191, Thread 525: XXXX 1757073169191, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169193 XXXX 1757073169193, Thread 525: XXXX 1757073169193, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169294 XXXX 1757073169294, Thread 525: XXXX 1757073169294, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169295 XXXX 1757073169295, Thread 525: XXXX 1757073169295, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169396 XXXX 1757073169396, Thread 525: XXXX 1757073169396, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169397 XXXX 1757073169397, Thread 525: XXXX 1757073169397, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169498 XXXX 1757073169498, Thread 525: XXXX 1757073169498, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169500 XXXX 1757073169500, Thread 525: XXXX 1757073169500, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169599 XXXX 1757073169599, Thread 525: XXXX 1757073169599, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169600 XXXX 1757073169600, Thread 525: XXXX 1757073169600, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169700 XXXX 1757073169700, Thread 525: XXXX 1757073169700, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169701 XXXX 1757073169701, Thread 525: XXXX 1757073169701, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169802 XXXX 1757073169802, Thread 525: XXXX 1757073169802, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169803 XXXX 1757073169803, Thread 525: XXXX 1757073169803, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073169905 XXXX 1757073169905, Thread 525: XXXX 1757073169905, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073169906 XXXX 1757073169906, Thread 525: XXXX 1757073169906, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170007 XXXX 1757073170007, Thread 525: XXXX 1757073170007, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170009 XXXX 1757073170009, Thread 525: XXXX 1757073170009, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170108 XXXX 1757073170108, Thread 525: XXXX 1757073170108, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170109 XXXX 1757073170109, Thread 525: XXXX 1757073170109, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170209 XXXX 1757073170209, Thread 525: XXXX 1757073170209, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170210 XXXX 1757073170210, Thread 525: XXXX 1757073170210, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170312 XXXX 1757073170312, Thread 525: XXXX 1757073170312, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170313 XXXX 1757073170313, Thread 525: XXXX 1757073170313, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170413 XXXX 1757073170413, Thread 525: XXXX 1757073170413, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170414 XXXX 1757073170414, Thread 525: XXXX 1757073170414, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170513 XXXX 1757073170513, Thread 525: XXXX 1757073170513, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170515 XXXX 1757073170515, Thread 525: XXXX 1757073170515, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170613 XXXX 1757073170613, Thread 525: XXXX 1757073170613, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170614 XXXX 1757073170614, Thread 525: XXXX 1757073170614, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170714 XXXX 1757073170714, Thread 525: XXXX 1757073170714, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170716 XXXX 1757073170716, Thread 525: XXXX 1757073170716, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170815 XXXX 1757073170815, Thread 525: XXXX 1757073170815, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170816 XXXX 1757073170816, Thread 525: XXXX 1757073170816, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073170926 XXXX 1757073170926, Thread 525: XXXX 1757073170926, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073170927 XXXX 1757073170927, Thread 525: XXXX 1757073170927, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171029 XXXX 1757073171029, Thread 525: XXXX 1757073171029, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171030 XXXX 1757073171030, Thread 525: XXXX 1757073171030, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171131 XXXX 1757073171131, Thread 525: XXXX 1757073171131, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171132 XXXX 1757073171132, Thread 525: XXXX 1757073171132, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171233 XXXX 1757073171233, Thread 525: XXXX 1757073171233, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171234 XXXX 1757073171234, Thread 525: XXXX 1757073171234, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171336 XXXX 1757073171336, Thread 525: XXXX 1757073171336, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171337 XXXX 1757073171337, Thread 525: XXXX 1757073171337, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171436 XXXX 1757073171436, Thread 525: XXXX 1757073171436, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171437 XXXX 1757073171437, Thread 525: XXXX 1757073171437, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171540 XXXX 1757073171540, Thread 525: XXXX 1757073171540, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171541 XXXX 1757073171541, Thread 525: XXXX 1757073171541, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171639 XXXX 1757073171639, Thread 525: XXXX 1757073171639, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171640 XXXX 1757073171640, Thread 525: XXXX 1757073171640, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171740 XXXX 1757073171740, Thread 525: XXXX 1757073171740, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171743 XXXX 1757073171743, Thread 525: XXXX 1757073171742, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171846 XXXX 1757073171846, Thread 525: XXXX 1757073171846, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171848 XXXX 1757073171848, Thread 525: XXXX 1757073171848, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073171946 XXXX 1757073171946, Thread 525: XXXX 1757073171946, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073171948 XXXX 1757073171948, Thread 525: XXXX 1757073171948, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172047 XXXX 1757073172047, Thread 525: XXXX 1757073172047, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172049 XXXX 1757073172049, Thread 525: XXXX 1757073172049, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172147 XXXX 1757073172147, Thread 525: XXXX 1757073172147, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172148 XXXX 1757073172148, Thread 525: XXXX 1757073172148, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172257 XXXX 1757073172257, Thread 525: XXXX 1757073172257, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172258 XXXX 1757073172258, Thread 525: XXXX 1757073172258, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172366 XXXX 1757073172366, Thread 525: XXXX 1757073172366, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172367 XXXX 1757073172367, Thread 525: XXXX 1757073172367, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172467 XXXX 1757073172467, Thread 525: XXXX 1757073172467, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172468 XXXX 1757073172468, Thread 525: XXXX 1757073172468, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172567 XXXX 1757073172567, Thread 525: XXXX 1757073172567, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172568 XXXX 1757073172568, Thread 525: XXXX 1757073172568, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172668 XXXX 1757073172668, Thread 525: XXXX 1757073172668, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172669 XXXX 1757073172669, Thread 525: XXXX 1757073172669, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172769 XXXX 1757073172769, Thread 525: XXXX 1757073172769, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172770 XXXX 1757073172770, Thread 525: XXXX 1757073172770, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172870 XXXX 1757073172870, Thread 525: XXXX 1757073172870, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172871 XXXX 1757073172871, Thread 525: XXXX 1757073172871, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073172979 XXXX 1757073172979, Thread 525: XXXX 1757073172979, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073172980 XXXX 1757073172980, Thread 525: XXXX 1757073172980, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173081 XXXX 1757073173081, Thread 525: XXXX 1757073173081, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173082 XXXX 1757073173082, Thread 525: XXXX 1757073173082, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173182 XXXX 1757073173182, Thread 525: XXXX 1757073173182, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173185 XXXX 1757073173185, Thread 525: XXXX 1757073173185, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173283 XXXX 1757073173283, Thread 525: XXXX 1757073173283, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173284 XXXX 1757073173284, Thread 525: XXXX 1757073173284, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173384 XXXX 1757073173384, Thread 525: XXXX 1757073173384, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173385 XXXX 1757073173385, Thread 525: XXXX 1757073173385, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173485 XXXX 1757073173485, Thread 525: XXXX 1757073173485, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173488 XXXX 1757073173488, Thread 525: XXXX 1757073173488, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173586 XXXX 1757073173586, Thread 525: XXXX 1757073173586, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173587 XXXX 1757073173587, Thread 525: XXXX 1757073173587, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173686 XXXX 1757073173686, Thread 525: XXXX 1757073173686, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173688 XXXX 1757073173688, Thread 525: XXXX 1757073173688, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173786 XXXX 1757073173786, Thread 525: XXXX 1757073173786, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173787 XXXX 1757073173787, Thread 525: XXXX 1757073173787, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173888 XXXX 1757073173888, Thread 525: XXXX 1757073173888, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173890 XXXX 1757073173889, Thread 525: XXXX 1757073173889, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073173988 XXXX 1757073173988, Thread 525: XXXX 1757073173988, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073173989 XXXX 1757073173989, Thread 525: XXXX 1757073173989, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174088 XXXX 1757073174088, Thread 525: XXXX 1757073174088, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174089 XXXX 1757073174089, Thread 525: XXXX 1757073174089, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174190 XXXX 1757073174190, Thread 525: XXXX 1757073174190, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174192 XXXX 1757073174192, Thread 525: XXXX 1757073174192, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174290 XXXX 1757073174290, Thread 525: XXXX 1757073174290, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174291 XXXX 1757073174291, Thread 525: XXXX 1757073174291, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174391 XXXX 1757073174391, Thread 525: XXXX 1757073174391, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174393 XXXX 1757073174393, Thread 525: XXXX 1757073174393, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174492 XXXX 1757073174492, Thread 525: XXXX 1757073174492, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174493 XXXX 1757073174493, Thread 525: XXXX 1757073174493, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174593 XXXX 1757073174593, Thread 525: XXXX 1757073174593, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174594 XXXX 1757073174594, Thread 525: XXXX 1757073174594, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174694 XXXX 1757073174694, Thread 525: XXXX 1757073174694, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174696 XXXX 1757073174696, Thread 525: XXXX 1757073174696, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174794 XXXX 1757073174794, Thread 525: XXXX 1757073174794, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174795 XXXX 1757073174795, Thread 525: XXXX 1757073174795, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174895 XXXX 1757073174895, Thread 525: XXXX 1757073174895, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174896 XXXX 1757073174896, Thread 525: XXXX 1757073174896, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073174996 XXXX 1757073174996, Thread 525: XXXX 1757073174996, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073174997 XXXX 1757073174997, Thread 525: XXXX 1757073174997, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175097 XXXX 1757073175097, Thread 525: XXXX 1757073175097, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175098 XXXX 1757073175098, Thread 525: XXXX 1757073175098, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175198 XXXX 1757073175198, Thread 525: XXXX 1757073175198, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175200 XXXX 1757073175200, Thread 525: XXXX 1757073175200, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175300 XXXX 1757073175300, Thread 525: XXXX 1757073175300, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175301 XXXX 1757073175301, Thread 525: XXXX 1757073175301, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175401 XXXX 1757073175401, Thread 525: XXXX 1757073175401, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175403 XXXX 1757073175402, Thread 525: XXXX 1757073175402, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175507 XXXX 1757073175507, Thread 525: XXXX 1757073175507, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175509 XXXX 1757073175509, Thread 525: XXXX 1757073175509, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175608 XXXX 1757073175608, Thread 525: XXXX 1757073175608, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175610 XXXX 1757073175610, Thread 525: XXXX 1757073175610, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175709 XXXX 1757073175709, Thread 525: XXXX 1757073175709, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175711 XXXX 1757073175710, Thread 525: XXXX 1757073175710, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175813 XXXX 1757073175813, Thread 525: XXXX 1757073175813, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175814 XXXX 1757073175814, Thread 525: XXXX 1757073175814, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073175917 XXXX 1757073175917, Thread 525: XXXX 1757073175917, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073175919 XXXX 1757073175919, Thread 525: XXXX 1757073175918, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176017 XXXX 1757073176017, Thread 525: XXXX 1757073176017, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176019 XXXX 1757073176019, Thread 525: XXXX 1757073176018, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176119 XXXX 1757073176119, Thread 525: XXXX 1757073176119, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176121 XXXX 1757073176120, Thread 525: XXXX 1757073176120, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176222 XXXX 1757073176222, Thread 525: XXXX 1757073176222, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176225 XXXX 1757073176225, Thread 525: XXXX 1757073176225, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176325 XXXX 1757073176325, Thread 525: XXXX 1757073176325, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176327 XXXX 1757073176327, Thread 525: XXXX 1757073176327, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176430 XXXX 1757073176430, Thread 525: XXXX 1757073176430, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176432 XXXX 1757073176432, Thread 525: XXXX 1757073176432, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176532 XXXX 1757073176532, Thread 525: XXXX 1757073176532, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176534 XXXX 1757073176534, Thread 525: XXXX 1757073176534, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176635 XXXX 1757073176635, Thread 525: XXXX 1757073176635, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176637 XXXX 1757073176637, Thread 525: XXXX 1757073176637, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176738 XXXX 1757073176738, Thread 525: XXXX 1757073176738, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176740 XXXX 1757073176740, Thread 525: XXXX 1757073176740, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176839 XXXX 1757073176839, Thread 525: XXXX 1757073176839, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176841 XXXX 1757073176841, Thread 525: XXXX 1757073176841, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073176942 XXXX 1757073176942, Thread 525: XXXX 1757073176942, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073176945 XXXX 1757073176945, Thread 525: XXXX 1757073176945, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177042 XXXX 1757073177042, Thread 525: XXXX 1757073177042, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177044 XXXX 1757073177044, Thread 525: XXXX 1757073177044, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177143 XXXX 1757073177143, Thread 525: XXXX 1757073177143, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177145 XXXX 1757073177145, Thread 525: XXXX 1757073177145, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177247 XXXX 1757073177247, Thread 525: XXXX 1757073177247, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177249 XXXX 1757073177249, Thread 525: XXXX 1757073177249, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177350 XXXX 1757073177350, Thread 525: XXXX 1757073177350, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177352 XXXX 1757073177352, Thread 525: XXXX 1757073177352, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177453 XXXX 1757073177453, Thread 525: XXXX 1757073177453, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177455 XXXX 1757073177455, Thread 525: XXXX 1757073177455, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177553 XXXX 1757073177553, Thread 525: XXXX 1757073177553, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177555 XXXX 1757073177555, Thread 525: XXXX 1757073177555, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177654 XXXX 1757073177654, Thread 525: XXXX 1757073177654, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177656 XXXX 1757073177656, Thread 525: XXXX 1757073177656, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177756 XXXX 1757073177756, Thread 525: XXXX 1757073177756, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177758 XXXX 1757073177758, Thread 525: XXXX 1757073177758, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177857 XXXX 1757073177857, Thread 525: XXXX 1757073177857, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177860 XXXX 1757073177860, Thread 525: XXXX 1757073177860, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073177958 XXXX 1757073177958, Thread 525: XXXX 1757073177958, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073177961 XXXX 1757073177961, Thread 525: XXXX 1757073177961, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178059 XXXX 1757073178059, Thread 525: XXXX 1757073178059, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178061 XXXX 1757073178061, Thread 525: XXXX 1757073178061, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178161 XXXX 1757073178161, Thread 525: XXXX 1757073178161, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178165 XXXX 1757073178165, Thread 525: XXXX 1757073178165, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178261 XXXX 1757073178261, Thread 525: XXXX 1757073178261, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178263 XXXX 1757073178263, Thread 525: XXXX 1757073178263, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178362 XXXX 1757073178362, Thread 525: XXXX 1757073178362, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178364 XXXX 1757073178364, Thread 525: XXXX 1757073178364, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178462 XXXX 1757073178462, Thread 525: XXXX 1757073178462, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178464 XXXX 1757073178464, Thread 525: XXXX 1757073178464, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178566 XXXX 1757073178566, Thread 525: XXXX 1757073178566, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178569 XXXX 1757073178569, Thread 525: XXXX 1757073178569, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178667 XXXX 1757073178667, Thread 525: XXXX 1757073178667, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178669 XXXX 1757073178669, Thread 525: XXXX 1757073178669, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178767 XXXX 1757073178767, Thread 525: XXXX 1757073178767, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178769 XXXX 1757073178769, Thread 525: XXXX 1757073178769, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178867 XXXX 1757073178867, Thread 525: XXXX 1757073178867, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178869 XXXX 1757073178869, Thread 525: XXXX 1757073178869, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073178967 XXXX 1757073178967, Thread 525: XXXX 1757073178967, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073178969 XXXX 1757073178969, Thread 525: XXXX 1757073178969, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179071 XXXX 1757073179071, Thread 525: XXXX 1757073179071, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179073 XXXX 1757073179073, Thread 525: XXXX 1757073179073, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179172 XXXX 1757073179172, Thread 525: XXXX 1757073179172, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179174 XXXX 1757073179174, Thread 525: XXXX 1757073179174, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179272 XXXX 1757073179272, Thread 525: XXXX 1757073179272, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179274 XXXX 1757073179274, Thread 525: XXXX 1757073179274, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179373 XXXX 1757073179373, Thread 525: XXXX 1757073179373, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179375 XXXX 1757073179375, Thread 525: XXXX 1757073179375, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179476 XXXX 1757073179476, Thread 525: XXXX 1757073179476, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179478 XXXX 1757073179478, Thread 525: XXXX 1757073179478, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179583 XXXX 1757073179583, Thread 525: XXXX 1757073179583, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179585 XXXX 1757073179585, Thread 525: XXXX 1757073179585, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179693 XXXX 1757073179693, Thread 525: XXXX 1757073179693, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179695 XXXX 1757073179695, Thread 525: XXXX 1757073179695, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179794 XXXX 1757073179794, Thread 525: XXXX 1757073179794, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179796 XXXX 1757073179796, Thread 525: XXXX 1757073179796, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179894 XXXX 1757073179894, Thread 525: XXXX 1757073179894, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179896 XXXX 1757073179896, Thread 525: XXXX 1757073179896, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073179995 XXXX 1757073179995, Thread 525: XXXX 1757073179995, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073179997 XXXX 1757073179997, Thread 525: XXXX 1757073179997, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180096 XXXX 1757073180096, Thread 525: XXXX 1757073180096, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180098 XXXX 1757073180098, Thread 525: XXXX 1757073180098, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180201 XXXX 1757073180201, Thread 525: XXXX 1757073180201, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180203 XXXX 1757073180203, Thread 525: XXXX 1757073180203, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180311 XXXX 1757073180311, Thread 525: XXXX 1757073180311, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180313 XXXX 1757073180313, Thread 525: XXXX 1757073180313, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180415 XXXX 1757073180415, Thread 525: XXXX 1757073180415, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180417 XXXX 1757073180417, Thread 525: XXXX 1757073180417, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180521 XXXX 1757073180521, Thread 525: XXXX 1757073180521, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180523 XXXX 1757073180523, Thread 525: XXXX 1757073180523, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180623 XXXX 1757073180623, Thread 525: XXXX 1757073180623, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180625 XXXX 1757073180625, Thread 525: XXXX 1757073180625, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180723 XXXX 1757073180723, Thread 525: XXXX 1757073180723, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180725 XXXX 1757073180725, Thread 525: XXXX 1757073180725, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180823 XXXX 1757073180823, Thread 525: XXXX 1757073180823, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180825 XXXX 1757073180825, Thread 525: XXXX 1757073180825, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073180923 XXXX 1757073180923, Thread 525: XXXX 1757073180923, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073180925 XXXX 1757073180925, Thread 525: XXXX 1757073180925, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181024 XXXX 1757073181024, Thread 525: XXXX 1757073181024, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181026 XXXX 1757073181026, Thread 525: XXXX 1757073181026, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181125 XXXX 1757073181125, Thread 525: XXXX 1757073181125, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181127 XXXX 1757073181127, Thread 525: XXXX 1757073181127, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181239 XXXX 1757073181239, Thread 525: XXXX 1757073181239, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181241 XXXX 1757073181241, Thread 525: XXXX 1757073181241, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181342 XXXX 1757073181342, Thread 525: XXXX 1757073181342, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181344 XXXX 1757073181344, Thread 525: XXXX 1757073181344, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181456 XXXX 1757073181456, Thread 525: XXXX 1757073181456, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181458 XXXX 1757073181458, Thread 525: XXXX 1757073181458, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181557 XXXX 1757073181557, Thread 525: XXXX 1757073181557, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181559 XXXX 1757073181559, Thread 525: XXXX 1757073181559, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181658 XXXX 1757073181658, Thread 525: XXXX 1757073181658, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181660 XXXX 1757073181660, Thread 525: XXXX 1757073181660, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181765 XXXX 1757073181765, Thread 525: XXXX 1757073181765, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181767 XXXX 1757073181767, Thread 525: XXXX 1757073181767, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181877 XXXX 1757073181877, Thread 525: XXXX 1757073181877, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181879 XXXX 1757073181879, Thread 525: XXXX 1757073181879, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073181989 XXXX 1757073181989, Thread 525: XXXX 1757073181989, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073181991 XXXX 1757073181991, Thread 525: XXXX 1757073181991, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182094 XXXX 1757073182094, Thread 525: XXXX 1757073182094, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182096 XXXX 1757073182096, Thread 525: XXXX 1757073182096, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182195 XXXX 1757073182195, Thread 525: XXXX 1757073182195, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182197 XXXX 1757073182197, Thread 525: XXXX 1757073182197, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182297 XXXX 1757073182297, Thread 525: XXXX 1757073182297, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182299 XXXX 1757073182299, Thread 525: XXXX 1757073182299, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182401 XXXX 1757073182401, Thread 525: XXXX 1757073182401, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182403 XXXX 1757073182403, Thread 525: XXXX 1757073182403, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182504 XXXX 1757073182504, Thread 525: XXXX 1757073182504, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182506 XXXX 1757073182506, Thread 525: XXXX 1757073182506, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182606 XXXX 1757073182606, Thread 525: XXXX 1757073182606, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182608 XXXX 1757073182608, Thread 525: XXXX 1757073182608, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182707 XXXX 1757073182707, Thread 525: XXXX 1757073182707, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182709 XXXX 1757073182709, Thread 525: XXXX 1757073182709, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182808 XXXX 1757073182808, Thread 525: XXXX 1757073182808, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182810 XXXX 1757073182810, Thread 525: XXXX 1757073182810, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073182911 XXXX 1757073182911, Thread 525: XXXX 1757073182911, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073182913 XXXX 1757073182913, Thread 525: XXXX 1757073182913, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183012 XXXX 1757073183012, Thread 525: XXXX 1757073183012, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183014 XXXX 1757073183014, Thread 525: XXXX 1757073183014, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183116 XXXX 1757073183116, Thread 525: XXXX 1757073183116, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183118 XXXX 1757073183118, Thread 525: XXXX 1757073183118, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183218 XXXX 1757073183218, Thread 525: XXXX 1757073183218, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183220 XXXX 1757073183220, Thread 525: XXXX 1757073183220, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183319 XXXX 1757073183319, Thread 525: XXXX 1757073183319, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183321 XXXX 1757073183321, Thread 525: XXXX 1757073183321, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183420 XXXX 1757073183420, Thread 525: XXXX 1757073183420, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183422 XXXX 1757073183422, Thread 525: XXXX 1757073183422, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183525 XXXX 1757073183525, Thread 525: XXXX 1757073183525, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183527 XXXX 1757073183527, Thread 525: XXXX 1757073183527, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183627 XXXX 1757073183627, Thread 525: XXXX 1757073183627, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183629 XXXX 1757073183629, Thread 525: XXXX 1757073183629, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183728 XXXX 1757073183728, Thread 525: XXXX 1757073183728, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183730 XXXX 1757073183730, Thread 525: XXXX 1757073183730, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183830 XXXX 1757073183830, Thread 525: XXXX 1757073183830, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183833 XXXX 1757073183833, Thread 525: XXXX 1757073183833, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073183934 XXXX 1757073183934, Thread 525: XXXX 1757073183934, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073183937 XXXX 1757073183937, Thread 525: XXXX 1757073183937, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184037 XXXX 1757073184037, Thread 525: XXXX 1757073184037, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184040 XXXX 1757073184040, Thread 525: XXXX 1757073184040, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184140 XXXX 1757073184140, Thread 525: XXXX 1757073184140, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184142 XXXX 1757073184142, Thread 525: XXXX 1757073184142, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184241 XXXX 1757073184241, Thread 525: XXXX 1757073184241, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184243 XXXX 1757073184243, Thread 525: XXXX 1757073184243, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184341 XXXX 1757073184341, Thread 525: XXXX 1757073184341, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184343 XXXX 1757073184343, Thread 525: XXXX 1757073184343, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184441 XXXX 1757073184441, Thread 525: XXXX 1757073184441, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184443 XXXX 1757073184443, Thread 525: XXXX 1757073184443, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184541 XXXX 1757073184541, Thread 525: XXXX 1757073184541, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184543 XXXX 1757073184543, Thread 525: XXXX 1757073184543, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184645 XXXX 1757073184645, Thread 525: XXXX 1757073184645, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184647 XXXX 1757073184647, Thread 525: XXXX 1757073184647, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184750 XXXX 1757073184750, Thread 525: XXXX 1757073184750, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184753 XXXX 1757073184753, Thread 525: XXXX 1757073184753, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184853 XXXX 1757073184853, Thread 525: XXXX 1757073184853, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184855 XXXX 1757073184855, Thread 525: XXXX 1757073184855, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073184958 XXXX 1757073184958, Thread 525: XXXX 1757073184958, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073184961 XXXX 1757073184961, Thread 525: XXXX 1757073184961, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185058 XXXX 1757073185058, Thread 525: XXXX 1757073185058, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185060 XXXX 1757073185060, Thread 525: XXXX 1757073185060, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185159 XXXX 1757073185159, Thread 525: XXXX 1757073185159, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185161 XXXX 1757073185161, Thread 525: XXXX 1757073185161, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185262 XXXX 1757073185262, Thread 525: XXXX 1757073185262, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185265 XXXX 1757073185265, Thread 525: XXXX 1757073185265, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185366 XXXX 1757073185366, Thread 525: XXXX 1757073185366, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185369 XXXX 1757073185369, Thread 525: XXXX 1757073185369, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185473 XXXX 1757073185473, Thread 525: XXXX 1757073185473, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185475 XXXX 1757073185475, Thread 525: XXXX 1757073185475, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185576 XXXX 1757073185576, Thread 525: XXXX 1757073185576, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185578 XXXX 1757073185578, Thread 525: XXXX 1757073185578, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185678 XXXX 1757073185678, Thread 525: XXXX 1757073185678, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185680 XXXX 1757073185680, Thread 525: XXXX 1757073185680, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185781 XXXX 1757073185781, Thread 525: XXXX 1757073185781, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185783 XXXX 1757073185783, Thread 525: XXXX 1757073185783, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185883 XXXX 1757073185883, Thread 525: XXXX 1757073185883, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185885 XXXX 1757073185885, Thread 525: XXXX 1757073185885, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073185983 XXXX 1757073185983, Thread 525: XXXX 1757073185983, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073185985 XXXX 1757073185985, Thread 525: XXXX 1757073185985, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186086 XXXX 1757073186086, Thread 525: XXXX 1757073186086, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186089 XXXX 1757073186089, Thread 525: XXXX 1757073186089, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186189 XXXX 1757073186189, Thread 525: XXXX 1757073186189, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186191 XXXX 1757073186191, Thread 525: XXXX 1757073186191, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186290 XXXX 1757073186290, Thread 525: XXXX 1757073186290, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186292 XXXX 1757073186292, Thread 525: XXXX 1757073186292, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186391 XXXX 1757073186391, Thread 525: XXXX 1757073186391, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186393 XXXX 1757073186393, Thread 525: XXXX 1757073186393, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186492 XXXX 1757073186492, Thread 525: XXXX 1757073186492, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186495 XXXX 1757073186495, Thread 525: XXXX 1757073186495, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186600 XXXX 1757073186600, Thread 525: XXXX 1757073186600, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186602 XXXX 1757073186602, Thread 525: XXXX 1757073186602, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186709 XXXX 1757073186709, Thread 525: XXXX 1757073186709, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186711 XXXX 1757073186711, Thread 525: XXXX 1757073186711, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186809 XXXX 1757073186809, Thread 525: XXXX 1757073186809, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186812 XXXX 1757073186812, Thread 525: XXXX 1757073186812, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073186910 XXXX 1757073186910, Thread 525: XXXX 1757073186910, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073186912 XXXX 1757073186912, Thread 525: XXXX 1757073186912, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187011 XXXX 1757073187011, Thread 525: XXXX 1757073187011, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187013 XXXX 1757073187013, Thread 525: XXXX 1757073187013, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187112 XXXX 1757073187112, Thread 525: XXXX 1757073187112, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187114 XXXX 1757073187114, Thread 525: XXXX 1757073187114, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187212 XXXX 1757073187212, Thread 525: XXXX 1757073187212, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187214 XXXX 1757073187214, Thread 525: XXXX 1757073187214, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187312 XXXX 1757073187312, Thread 525: XXXX 1757073187312, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187314 XXXX 1757073187314, Thread 525: XXXX 1757073187314, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187412 XXXX 1757073187412, Thread 525: XXXX 1757073187412, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187414 XXXX 1757073187414, Thread 525: XXXX 1757073187414, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187512 XXXX 1757073187512, Thread 525: XXXX 1757073187512, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187514 XXXX 1757073187514, Thread 525: XXXX 1757073187514, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187612 XXXX 1757073187612, Thread 525: XXXX 1757073187612, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187614 XXXX 1757073187614, Thread 525: XXXX 1757073187614, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187713 XXXX 1757073187713, Thread 525: XXXX 1757073187713, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187715 XXXX 1757073187715, Thread 525: XXXX 1757073187715, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073187814 XXXX 1757073187814, Thread 525: XXXX 1757073187814, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073187816 XXXX 1757073187816, Thread 525: XXXX 1757073187816, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073188692 XXXX 1757073188691, Thread 525: XXXX 1757073188691, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073188694 XXXX 1757073188694, Thread 525: XXXX 1757073188694, Exiting Thread 525: Commands::runScriptBasic  
-525 1757073190151 XXXX 1757073190151, Thread 525: XXXX 1757073190151, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073190153 XXXX 1757073190153, Thread 525: XXXX 1757073190153, Exiting Thread 525: Commands::runScriptBasic  
+334 1758019484325 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is NOT null
+334 1758019484325 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 9015, AttachedToolVID = 4d8
+334 1758019484325 GEN4_CONNECT_DIAGNOSTICS:transport type = USB
+334 1758019484326 GEN4_CONNECT_DIAGNOSTICS:AttachedToolPID = 9015, AttachedToolVID = 4d8
+334 1758019484422 com.microchip.mplab.mdbcore.RealICETool.RIDbgToolCom
+334 1758019484422 GEN4_CONNECT_DIAGNOSTICS:Before MPLABCommTool.Connect()
+334 1758019484423 GEN4_CONNECT_DIAGNOSTICS:After MPLABCommTool.Connect()
+334 1758019484423 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool.Connect() returned MPLABCOMM_NO_ERROR
+334 1758019484423 GEN4_CONNECT_DIAGNOSTICS:Attaching to MPLABCommTool plugnplay
+334 1758019484439 GEN4_CONNECT_DIAGNOSTICS:Adding new plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@42b50449
+334 1758019484439 GEN4_CONNECT_DIAGNOSTICS:Begin PlugNPlayObservers list dump:
+334 1758019484439 GEN4_CONNECT_DIAGNOSTICS:com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@42b50449
+334 1758019484439 GEN4_CONNECT_DIAGNOSTICS:End PlugNPlayObservers list dump:
 
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Pre:SetProgramExec
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Test
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 800000
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Length = 6126
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Post:SetProgramExec
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 true
-1149 1757073190270 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019484750 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:init
+334 1758019484750 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019484750 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: Values:
+334 1758019484750 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: pcAddress = 0000002e, Vpp = 3,25, useRowEraseIfVoltageIsLow = false, voltageBelowWhichUseRowErase = 0,00, deviceName = dsPIC33EP512MU814, programmerType = DSPIC33EP
+334 1758019484750 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: MemInfo values:
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = ffffff, exists = true, startAddr = 00000000, endAddr = 007fffff, rowSize = 0800, rowEraseSize = 0800, addrInc = 0002, widthProgram = 0004
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = ffff, exists = true, startAddr = 00f80004, endAddr = 00f80011, rowSize = 0001, rowEraseSize = 0000, addrInc = 0002, widthProgram = 0002
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 00ff, exists = true, startAddr = 00f80012, endAddr = 00f80013, rowSize = 0001, rowEraseSize = 0000, addrInc = 0002, widthProgram = 0002
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = ffffff, exists = true, startAddr = 00800000, endAddr = 00800fff, rowSize = 0800, rowEraseSize = 0800, addrInc = 0002, widthProgram = 0004
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0002, widthProgram = 0002
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0002, widthProgram = 0002
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484751 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0002, widthProgram = 0002
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 7fffffff, exists = true, startAddr = 00ff0000, endAddr = 00ff0003, rowSize = 0001, rowEraseSize = 0000, addrInc = 0001, widthProgram = 0001
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: mask = 0000, exists = false, startAddr = 00000000, endAddr = 00000000, rowSize = 0000, rowEraseSize = 0000, addrInc = 0000, widthProgram = 0000
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 DeviceInfo: CfgRequiredBitsMask Values:
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f80004, Mask = 00000003
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f80006, Mask = 00000087
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f80008, Mask = 000000e7
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f8000a, Mask = 000000ff
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f8000c, Mask = 0000003f
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f8000e, Mask = 00000077
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Address = 00f80010, Mask = 00000003
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 BasicInfo: Values:
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 BasicInfo: InputStream = com.microchip.mplab.libs.toolpacksupport.EquatableFileInputStream@d90ad689, ToolFlavor = PIC32C
+334 1758019484752 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489463 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:init
+334 1758019489463 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 none
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Pre:SetDebugExec
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Test
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 800000
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Length = 2064
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Post:SetDebugExec
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 true
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:GetInterfaceProvider
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 RI4DebugInterface
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:GetInterfaceProvider
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4DebugInterfaceImpl@7b47be5b
+334 1758019489464 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:EstablishCommunincations
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.mdbcore.ICD4Tool.ICD4Com@149d5c40
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:EstablishCommunincations
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 true
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:GetInterfaceProvider
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 RI4ProgramInterface
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:GetInterfaceProvider
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4ProgramInterfaceImpl@40228d38
+334 1758019489496 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:GetFirmwareInfo
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 null
-1149 1757073190273 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:GetFirmwareInfo
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 FirmwareInfo: Values:
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 FirmwareInfo: boot = false, bootVer = 01.00.00, apVer = 02.01.00, fpgaVer = 01.00.14, scriptVer = 00.06.71, macAddress = 0495683578952544949484954484854, devID = a1020e01, devID1 = 2, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = BUR202671191, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 3
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489522 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:GetInterfaceProvider
+334 1758019489522 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489522 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 RI4ConnectInterface
+334 1758019489522 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489523 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:GetInterfaceProvider
+334 1758019489523 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489523 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.libs.RI4ArmToolsController.comm.ICD4ArmConnectInterfaceImpl@7ba4aff1
+334 1758019489523 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:SetPowerInfo
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 PowerInfo: Values:
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 PowerInfo: shotDownSystem = false, isToolPower = false, voltage = 3,250000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
-1149 1757073190281 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190281 XXXX 1757073190281, Thread 1149: XXXX 1757073190281, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
-1149 1757073190282 XXXX 1757073190282, Thread 1149: XXXX 1757073190282, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190282 XXXX 1757073190282, Thread 1149: XXXX 1757073190282, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0x46, ...  
-1149 1757073190283 XXXX 1757073190283, Thread 1149: XXXX 1757073190283, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190283 XXXX 1757073190283, Thread 1149: XXXX 1757073190283, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0x44, ...  
-1149 1757073190304 XXXX 1757073190304, Thread 1149: XXXX 1757073190304, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190304 XXXX 1757073190304, Thread 1149: XXXX 1757073190304, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xef, ...  
-1149 1757073190315 XXXX 1757073190315, Thread 1149: XXXX 1757073190315, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190315 XXXX 1757073190315, Thread 1149: XXXX 1757073190315, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0x40, ...  
-1149 1757073190810 XXXX 1757073190810, Thread 1149: XXXX 1757073190810, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190810 XXXX 1757073190810, Thread 1149: XXXX 1757073190810, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0x47, ...  
-1149 1757073190816 XXXX 1757073190816, Thread 1149: XXXX 1757073190816, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:SetPowerInfo
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 none
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:selectCore
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 dsPIC33EP512MU814
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:selectCore
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 none
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:SetLEDBrightness
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 5
-1149 1757073190816 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190816 XXXX 1757073190816, Thread 1149: XXXX 1757073190816, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xcf, ...  
-1149 1757073190817 XXXX 1757073190817, Thread 1149: XXXX 1757073190817, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:SetLEDBrightness
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 none
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:GetInterfaceProvider
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 RI4ControllerDiagnosticsInterface
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:GetInterfaceProvider
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.libs.RI4ToolsController.implementations.RI4ControllerDiagnosticsInterfaceImpl@1946b28d
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:SetToolInfo
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 ToolInfo: Values:
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 ToolInfo: speedLevel = 1, PGCResistance = 4700, PGDResistance = 4700, PGCPullDir = PullDown, PGDPullDir = PullDown, ICSPSelected = Wire2
-1149 1757073190817 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-1149 1757073190817 XXXX 1757073190817, Thread 1149: XXXX 1757073190817, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0x27, ...  
-1149 1757073190818 XXXX 1757073190818, Thread 1149: XXXX 1757073190818, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190818 XXXX 1757073190818, Thread 1149: XXXX 1757073190818, Entering Thread 1149: Commands::runScriptBasic, script name = SetSpeedFromDevice, timeOut = -1 ms  
-1149 1757073190819 XXXX 1757073190819, Thread 1149: XXXX 1757073190819, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190819 XXXX 1757073190819, Thread 1149: XXXX 1757073190819, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xed, ...  
-1149 1757073190820 XXXX 1757073190820, Thread 1149: XXXX 1757073190820, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190820 XXXX 1757073190820, Thread 1149: XXXX 1757073190820, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xec, ...  
-1149 1757073190821 XXXX 1757073190821, Thread 1149: XXXX 1757073190821, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190821 XXXX 1757073190821, Thread 1149: XXXX 1757073190821, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xd4, ...  
-1149 1757073190822 XXXX 1757073190822, Thread 1149: XXXX 1757073190822, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190822 XXXX 1757073190822, Thread 1149: XXXX 1757073190822, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xcd, ...  
-1149 1757073190823 XXXX 1757073190823, Thread 1149: XXXX 1757073190823, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190823 XXXX 1757073190823, Thread 1149: XXXX 1757073190823, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xce, ...  
-1149 1757073190824 XXXX 1757073190824, Thread 1149: XXXX 1757073190824, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190824 XXXX 1757073190824, Thread 1149: XXXX 1757073190824, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xcd, ...  
-1149 1757073190825 XXXX 1757073190825, Thread 1149: XXXX 1757073190825, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190825 XXXX 1757073190825, Thread 1149: XXXX 1757073190825, Entering Thread 1149: Commands::runScriptBasic with script contents. contents[0] = 0xce, ...  
-1149 1757073190826 XXXX 1757073190826, Thread 1149: XXXX 1757073190826, Exiting Thread 1149: Commands::runScriptBasic  
-1149 1757073190826 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:SetToolInfo
-1149 1757073190826 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
-1149 1757073190826 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 none
-1149 1757073190826 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
-525 1757073190827 XXXX 1757073190827, Thread 525: XXXX 1757073190827, Entering Thread 525: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
-525 1757073191828 XXXX 1757073191828, Thread 525: Type = runScript, Script name = GetHaltStatus, Status = 0xc04
-data: aa:aa:aa:aa:
- 
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:GetInterfaceProvider
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 ProgrammerToGo
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:GetInterfaceProvider
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 null
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Pre:setTraceDescriptor
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.libs.RI4ToolsController.DataClasses.TraceDescriptor@31737b75
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload End
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Post:setTraceDescriptor
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return Value
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 none
-1150 1757073191834 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Pre:GetInterfaceProvider
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Status
+334 1758019489530 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489531 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Post:GetInterfaceProvider
+334 1758019489531 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489531 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.libs.RI4ToolsController.implementations.OpStatus@5dc620de
+334 1758019489531 GEN4_TO_CONTROLLER_LOG:GEN4_INIT_INT_LOG_dsPIC33EP512MU814 Return End
 
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Pre:DebugReadTargetMemory
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Emulation
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 fd0000
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 fd000b
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Length = 12
-1150 1757073191835 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload End
-1150 1757073191835 XXXX 1757073191835, Thread 1150: XXXX 1757073191835, Entering Thread 1150: Commands::runScriptWithUpload, script name = ReadEmu  
-1150 1757073191835 XXXX 1757073191835, Thread 1150: XXXX 1757073191835, Entering Thread 1150: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0xc bytes long  
-373 1757073193269 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
-1152 1757073560583 XXXX 1757073560583, Thread 1152: ToolCommUsb::read, com.Received returned -1 
-1152 1757073560583 XXXX 1757073560583, Thread 1152: ToolCommUsb::DataReader::run, fatal RI4ControllerException: {null} 
-1150 1757073560590 XXXX 1757073560590, Thread 1150: com.Send returned false 
+334 1758019489592 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Pre:SetProgramExec
+334 1758019489592 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489595 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Test
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 800000
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Length = 6126
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Post:SetProgramExec
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 true
+334 1758019489596 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return End
 
-373 1757073560590 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:GetFirmwareInfo
-373 1757073560590 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-373 1757073560590 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 null
-373 1757073560590 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489599 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Pre:SetDebugExec
+334 1758019489599 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489599 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Test
+334 1758019489599 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 800000
+334 1758019489599 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Length = 2064
+334 1758019489599 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Post:SetDebugExec
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 true
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_PROGRAM_INT_LOG_dsPIC33EP512MU814 Return End
+
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:EstablishCommunincations
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.mdbcore.ICD4Tool.ICD4Com@18d12a61
+334 1758019489600 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489609 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:EstablishCommunincations
+334 1758019489609 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489609 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 true
+334 1758019489609 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+
+334 1758019489610 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:GetFirmwareInfo
+334 1758019489610 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489610 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 null
+334 1758019489610 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489620 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:GetFirmwareInfo
+334 1758019489620 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
+334 1758019489621 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 FirmwareInfo: Values:
+334 1758019489621 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 FirmwareInfo: boot = false, bootVer = 01.00.00, apVer = 02.01.00, fpgaVer = 01.00.14, scriptVer = 00.06.71, macAddress = 0495683578952544949484954484854, devID = a1020e01, devID1 = 2, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = BUR202671191, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 3
+334 1758019489621 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+334 1758019489625 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+334 1758019489629 GEN4_CONNECT_DIAGNOSTICS:Created FirmwareUpdateHandler com.microchip.mplab.mdbcore.ICD4Tool.ICD4FirmwareUpdateHandler@5d76f00c
+334 1758019489629 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.GetUpdateInfo()
+334 1758019489630 GEN4_CONNECT_DIAGNOSTICS:Parsing file  for firmware updates
+334 1758019489630 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Jame file line = app.hex,020100
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Jame file line = boot.hex,010000
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Jame file line = fpga.hex,010014
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Jame file line = scripts.xml,000671
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for Boot = 01.00.00
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for ap = 02.01.00
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:Selected firmware version for fpga = 01.00.14
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.ri4ParseSelectedVersionsFromJamFile()
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.GetUpdateInfo()
+334 1758019489631 GEN4_CONNECT_DIAGNOSTICS:ENTERING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.updateRI4ToolsFirmware(FirmwareInfo, UpdateMessage)
+334 1758019489715 GEN4_CONNECT_DIAGNOSTICS:appNeedsUpdate returned false
+334 1758019489715 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.FirmwareUpdateHandler.updateRI4ToolsFirmware(FirmwareInfo, UpdateMessage)
+334 1758019489715 GEN4_CONNECT_DIAGNOSTICS:EXITING: com.microchip.mplab.mdbcore.RI4Tool.ConnectionHandler.CheckForFWUpdates()
+
+334 1758019489717 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:SetPowerInfo
+334 1758019489717 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
+334 1758019489717 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 PowerInfo: Values:
+334 1758019489717 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 PowerInfo: shotDownSystem = false, isToolPower = false, voltage = 3,250000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
+334 1758019489717 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
+334 1758019489717 XXXX 1758019489717, Thread 334: XXXX 1758019489717, Entering Thread 334: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
+334 1758019499728 XXXX 1758019499727, Thread 334: ToolCommUsb::read, com.Received returned -1 
+334 1758019499729 XXXX 1758019499729, Thread 334: transfer: exception after writeHeaderAndGetResult null 
+334 1758019499729 XXXX 1758019499729, Thread 334: XXXX 1758019499729, Entering Thread 334: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
+334 1758019499729 XXXX 1758019499729, Thread 334: Send Abort Script Engine Command 
+334 1758019499729 XXXX 1758019499729, Thread 334: XXXX 1758019499729, Entering Thread 334: ToolCommUsb::killScriptEngine  
+334 1758019499731 XXXX 1758019499731, Thread 334: XXXX 1758019499731, Exiting Thread 334: ToolCommUsb::killScriptEngine  
+334 1758019499731 XXXX 1758019499731, Thread 334: Successfully Sent Abort Script EngineCommand 
+334 1758019499731 XXXX 1758019499731, Thread 334: Exiting recoverFromProtocolError 
+334 1758019499731 XXXX 1758019499731, Thread 334: XXXX 1758019499731, Exiting Thread 334: ToolCommUsb::recoverFromProtocolError,  
+334 1758019499731 XXXX 1758019499731, Thread 334: transfer: after recoverFromProtocolError 

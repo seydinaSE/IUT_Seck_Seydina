@@ -12,18 +12,19 @@
 #include "IO.h"
 #include "timer.h"
 #include "PWM.h"
+#include "ADC.h"
 
 int main(void) {
     InitOscillator();
     InitIO();
     InitPWM();
     InitTimer1();
-    InitTimer23();
-
-
-    while (1) {
-
+    //InitTimer23();
+    InitADC1();
+    
+    while(1){
     }
 
+    
 
 }

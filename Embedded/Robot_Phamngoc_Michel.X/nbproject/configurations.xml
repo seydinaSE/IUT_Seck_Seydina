@@ -78,10 +78,6 @@
         <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
-      <item path="ADC.c" ex="true" overriding="false">
-      </item>
-      <item path="ADC.h" ex="true" overriding="false">
-      </item>
       <C30>
         <property key="cast-align" value="false"/>
         <property key="code-model" value="default"/>
