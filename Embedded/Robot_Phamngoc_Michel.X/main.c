@@ -13,18 +13,17 @@
 #include "timer.h"
 #include "PWM.h"
 
-int main (void){
+int main(void) {
     InitOscillator();
     InitIO();
     InitPWM();
+    InitTimer1();
     InitTimer23();
-  
 
 
+    while (1) {
 
-while(1){
-    
-}
+    }
 
 
 }
