@@ -8,8 +8,14 @@ float vitesseGaucheConsigne;
 float vitesseGaucheCommandeCourante;
 float vitesseDroiteConsigne;
 float vitesseDroiteCommandeCourante;
+float distanceTelemetreDroit1;
+float distanceTelemetreDroit;
+float distanceTelemetreCentre;
+float distanceTelemetreGauche1;
+float distanceTelemetreGauche;
 };
 };
 } ROBOT_STATE_BITS;
 extern volatile ROBOT_STATE_BITS robotState;
+
 #endif /* ROBOT_H */
