@@ -24,10 +24,24 @@
 #define STATE_ARRET_EN_COURS 13
 #define STATE_RECULE 14
 #define STATE_RECULE_EN_COURS 15
+
+#define STATE_TOURNE_GAUCHE_1 16
+#define STATE_TOURNE_DROITE_1 17
+#define STATE_TOURNE_GAUCHE_2 18
+#define STATE_TOURNE_DROITE_2 19
+#define RECULE 20
+
 #define PAS_D_OBSTACLE 0
 #define OBSTACLE_A_GAUCHE 1
 #define OBSTACLE_A_DROITE 2
 #define OBSTACLE_EN_FACE 3
+
+#define OBSTACLE_A_GAUCHE_1 4
+#define OBSTACLE_A_DROITE_1 5
+#define OBSTACLE_A_GAUCHE_2 6
+#define OBSTACLE_A_DROITE_2 7
+
+#define OBSTACLE_EN_FACE_1 8
 void OperatingSystemLoop(void);
 void SetNextRobotStateInAutomaticMode();
 
