@@ -28,10 +28,9 @@ void __attribute__((interrupt, no_auto_psv)) _T1Interrupt(void) {
     IFS0bits.T1IF = 0;
   
 
-    
     ADC1StartConversionSequence();
-      PWMUpdateSpeed();
-
+     PWMUpdateSpeed();
+      
 }
 //Interruption du timer 1
 void InitTimer4(void) {
@@ -85,17 +84,7 @@ unsigned char toggle = 0;
 
 void __attribute__((interrupt, no_auto_psv)) _T3Interrupt(void) {
     IFS0bits.T3IF = 0; // Clear Timer3 Interrupt Flag
-    //LED_BLANCHE_1=!LED_BLANCHE_1;
-    if (toggle == 0) {
-        PWMSetSpeedConsigne(15, MOTEUR_DROIT);
-        PWMSetSpeedConsigne(15, MOTEUR_GAUCHE);
-        toggle = 1;
-    } else {
-        PWMSetSpeedConsigne(-15, MOTEUR_DROIT);
-        PWMSetSpeedConsigne(-15, MOTEUR_GAUCHE);
-        toggle = 0;
-    }
-
+   
 
 }
 

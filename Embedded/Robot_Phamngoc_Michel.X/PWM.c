@@ -96,5 +96,8 @@ void PWMUpdateSpeed() {
     } else {
         PDC2 = talon;
         SDC2 = -robotState.vitesseDroiteCommandeCourante * PWMPER + talon;
+  
+        
+        
     }
 }

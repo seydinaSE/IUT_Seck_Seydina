@@ -1,28 +1,1002 @@
-43764 1758615648406 GEN4_CONNECT_DIAGNOSTICS:MPLABCommTool is null
+629 1759999809448 XXXX 1759999809448, Thread 629: XXXX 1759999809448, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809448 XXXX 1759999809448, Thread 629: XXXX 1759999809448, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809448 XXXX 1759999809448, Thread 629: XXXX 1759999809448, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809451 XXXX 1759999809451, Thread 629: XXXX 1759999809451, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809451 XXXX 1759999809451, Thread 629: XXXX 1759999809451, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809451 XXXX 1759999809451, Thread 629: XXXX 1759999809451, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809456 XXXX 1759999809456, Thread 629: XXXX 1759999809456, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809456 XXXX 1759999809456, Thread 629: XXXX 1759999809456, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809456 XXXX 1759999809456, Thread 629: XXXX 1759999809456, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809459 XXXX 1759999809459, Thread 629: XXXX 1759999809459, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809459 XXXX 1759999809459, Thread 629: XXXX 1759999809459, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809459 XXXX 1759999809459, Thread 629: XXXX 1759999809459, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809464 XXXX 1759999809464, Thread 629: XXXX 1759999809464, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809464 XXXX 1759999809464, Thread 629: XXXX 1759999809464, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809464 XXXX 1759999809464, Thread 629: XXXX 1759999809464, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809466 XXXX 1759999809466, Thread 629: XXXX 1759999809466, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809466 XXXX 1759999809466, Thread 629: XXXX 1759999809466, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809466 XXXX 1759999809466, Thread 629: XXXX 1759999809466, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809471 XXXX 1759999809471, Thread 629: XXXX 1759999809471, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809471 XXXX 1759999809471, Thread 629: XXXX 1759999809471, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809471 XXXX 1759999809471, Thread 629: XXXX 1759999809471, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809475 XXXX 1759999809475, Thread 629: XXXX 1759999809475, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809475 XXXX 1759999809475, Thread 629: XXXX 1759999809475, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809475 XXXX 1759999809475, Thread 629: XXXX 1759999809475, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809480 XXXX 1759999809480, Thread 629: XXXX 1759999809480, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809480 XXXX 1759999809480, Thread 629: XXXX 1759999809480, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809480 XXXX 1759999809480, Thread 629: XXXX 1759999809480, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809482 XXXX 1759999809482, Thread 629: XXXX 1759999809482, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809482 XXXX 1759999809482, Thread 629: XXXX 1759999809482, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809482 XXXX 1759999809482, Thread 629: XXXX 1759999809482, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809487 XXXX 1759999809487, Thread 629: XXXX 1759999809487, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809487 XXXX 1759999809487, Thread 629: XXXX 1759999809487, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809487 XXXX 1759999809487, Thread 629: XXXX 1759999809487, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809490 XXXX 1759999809490, Thread 629: XXXX 1759999809490, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809490 XXXX 1759999809490, Thread 629: XXXX 1759999809490, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809490 XXXX 1759999809490, Thread 629: XXXX 1759999809490, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809495 XXXX 1759999809495, Thread 629: XXXX 1759999809495, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809495 XXXX 1759999809495, Thread 629: XXXX 1759999809495, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809495 XXXX 1759999809495, Thread 629: XXXX 1759999809495, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809498 XXXX 1759999809498, Thread 629: XXXX 1759999809498, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809498 XXXX 1759999809498, Thread 629: XXXX 1759999809498, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809498 XXXX 1759999809498, Thread 629: XXXX 1759999809498, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809503 XXXX 1759999809503, Thread 629: XXXX 1759999809503, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809503 XXXX 1759999809503, Thread 629: XXXX 1759999809503, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809503 XXXX 1759999809503, Thread 629: XXXX 1759999809503, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809506 XXXX 1759999809506, Thread 629: XXXX 1759999809506, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809506 XXXX 1759999809506, Thread 629: XXXX 1759999809506, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809506 XXXX 1759999809506, Thread 629: XXXX 1759999809506, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809511 XXXX 1759999809511, Thread 629: XXXX 1759999809511, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809511 XXXX 1759999809511, Thread 629: XXXX 1759999809511, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809511 XXXX 1759999809511, Thread 629: XXXX 1759999809511, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809514 XXXX 1759999809514, Thread 629: XXXX 1759999809514, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809514 XXXX 1759999809514, Thread 629: XXXX 1759999809514, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809514 XXXX 1759999809514, Thread 629: XXXX 1759999809514, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809519 XXXX 1759999809519, Thread 629: XXXX 1759999809519, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809519 XXXX 1759999809519, Thread 629: XXXX 1759999809519, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809519 XXXX 1759999809519, Thread 629: XXXX 1759999809519, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809521 XXXX 1759999809521, Thread 629: XXXX 1759999809521, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809521 XXXX 1759999809521, Thread 629: XXXX 1759999809521, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809521 XXXX 1759999809521, Thread 629: XXXX 1759999809521, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809526 XXXX 1759999809526, Thread 629: XXXX 1759999809526, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809526 XXXX 1759999809526, Thread 629: XXXX 1759999809526, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809526 XXXX 1759999809526, Thread 629: XXXX 1759999809526, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809530 XXXX 1759999809530, Thread 629: XXXX 1759999809530, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809530 XXXX 1759999809530, Thread 629: XXXX 1759999809530, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809530 XXXX 1759999809530, Thread 629: XXXX 1759999809530, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809535 XXXX 1759999809535, Thread 629: XXXX 1759999809535, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809535 XXXX 1759999809535, Thread 629: XXXX 1759999809535, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809535 XXXX 1759999809535, Thread 629: XXXX 1759999809535, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809537 XXXX 1759999809537, Thread 629: XXXX 1759999809537, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809537 XXXX 1759999809537, Thread 629: XXXX 1759999809537, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809537 XXXX 1759999809537, Thread 629: XXXX 1759999809537, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809542 XXXX 1759999809542, Thread 629: XXXX 1759999809542, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809542 XXXX 1759999809542, Thread 629: XXXX 1759999809542, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809542 XXXX 1759999809542, Thread 629: XXXX 1759999809542, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809545 XXXX 1759999809545, Thread 629: XXXX 1759999809545, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809545 XXXX 1759999809545, Thread 629: XXXX 1759999809545, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809545 XXXX 1759999809545, Thread 629: XXXX 1759999809545, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809550 XXXX 1759999809550, Thread 629: XXXX 1759999809550, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809550 XXXX 1759999809550, Thread 629: XXXX 1759999809550, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809550 XXXX 1759999809550, Thread 629: XXXX 1759999809550, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809553 XXXX 1759999809553, Thread 629: XXXX 1759999809553, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809553 XXXX 1759999809553, Thread 629: XXXX 1759999809553, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809553 XXXX 1759999809553, Thread 629: XXXX 1759999809553, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809558 XXXX 1759999809558, Thread 629: XXXX 1759999809558, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809558 XXXX 1759999809558, Thread 629: XXXX 1759999809558, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809558 XXXX 1759999809558, Thread 629: XXXX 1759999809558, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809561 XXXX 1759999809561, Thread 629: XXXX 1759999809561, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809561 XXXX 1759999809561, Thread 629: XXXX 1759999809561, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809561 XXXX 1759999809561, Thread 629: XXXX 1759999809561, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809566 XXXX 1759999809566, Thread 629: XXXX 1759999809566, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809566 XXXX 1759999809566, Thread 629: XXXX 1759999809566, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809566 XXXX 1759999809566, Thread 629: XXXX 1759999809566, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809569 XXXX 1759999809569, Thread 629: XXXX 1759999809569, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809569 XXXX 1759999809569, Thread 629: XXXX 1759999809569, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809569 XXXX 1759999809569, Thread 629: XXXX 1759999809569, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809574 XXXX 1759999809574, Thread 629: XXXX 1759999809574, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809574 XXXX 1759999809574, Thread 629: XXXX 1759999809574, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809574 XXXX 1759999809574, Thread 629: XXXX 1759999809574, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809577 XXXX 1759999809577, Thread 629: XXXX 1759999809577, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809577 XXXX 1759999809577, Thread 629: XXXX 1759999809577, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809577 XXXX 1759999809577, Thread 629: XXXX 1759999809577, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809583 XXXX 1759999809583, Thread 629: XXXX 1759999809583, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809583 XXXX 1759999809583, Thread 629: XXXX 1759999809583, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809583 XXXX 1759999809583, Thread 629: XXXX 1759999809583, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809586 XXXX 1759999809586, Thread 629: XXXX 1759999809586, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809586 XXXX 1759999809586, Thread 629: XXXX 1759999809586, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809586 XXXX 1759999809586, Thread 629: XXXX 1759999809586, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809591 XXXX 1759999809591, Thread 629: XXXX 1759999809591, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809591 XXXX 1759999809591, Thread 629: XXXX 1759999809591, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809591 XXXX 1759999809591, Thread 629: XXXX 1759999809591, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809594 XXXX 1759999809594, Thread 629: XXXX 1759999809594, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809594 XXXX 1759999809594, Thread 629: XXXX 1759999809594, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809594 XXXX 1759999809594, Thread 629: XXXX 1759999809594, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809599 XXXX 1759999809599, Thread 629: XXXX 1759999809599, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809599 XXXX 1759999809599, Thread 629: XXXX 1759999809599, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809599 XXXX 1759999809599, Thread 629: XXXX 1759999809599, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809601 XXXX 1759999809601, Thread 629: XXXX 1759999809601, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809601 XXXX 1759999809601, Thread 629: XXXX 1759999809601, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809601 XXXX 1759999809601, Thread 629: XXXX 1759999809601, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809606 XXXX 1759999809606, Thread 629: XXXX 1759999809606, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809606 XXXX 1759999809606, Thread 629: XXXX 1759999809606, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809606 XXXX 1759999809606, Thread 629: XXXX 1759999809606, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809610 XXXX 1759999809610, Thread 629: XXXX 1759999809610, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809610 XXXX 1759999809610, Thread 629: XXXX 1759999809610, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809610 XXXX 1759999809610, Thread 629: XXXX 1759999809610, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809615 XXXX 1759999809615, Thread 629: XXXX 1759999809615, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809615 XXXX 1759999809615, Thread 629: XXXX 1759999809615, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809615 XXXX 1759999809615, Thread 629: XXXX 1759999809615, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809617 XXXX 1759999809617, Thread 629: XXXX 1759999809617, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809617 XXXX 1759999809617, Thread 629: XXXX 1759999809617, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809617 XXXX 1759999809617, Thread 629: XXXX 1759999809617, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809622 XXXX 1759999809622, Thread 629: XXXX 1759999809622, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809622 XXXX 1759999809622, Thread 629: XXXX 1759999809622, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809622 XXXX 1759999809622, Thread 629: XXXX 1759999809622, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809625 XXXX 1759999809625, Thread 629: XXXX 1759999809625, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809625 XXXX 1759999809625, Thread 629: XXXX 1759999809625, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809625 XXXX 1759999809625, Thread 629: XXXX 1759999809625, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809630 XXXX 1759999809630, Thread 629: XXXX 1759999809630, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809630 XXXX 1759999809630, Thread 629: XXXX 1759999809630, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809630 XXXX 1759999809630, Thread 629: XXXX 1759999809630, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809632 XXXX 1759999809632, Thread 629: XXXX 1759999809632, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809632 XXXX 1759999809632, Thread 629: XXXX 1759999809632, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809632 XXXX 1759999809632, Thread 629: XXXX 1759999809632, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809637 XXXX 1759999809637, Thread 629: XXXX 1759999809637, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809637 XXXX 1759999809637, Thread 629: XXXX 1759999809637, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809637 XXXX 1759999809637, Thread 629: XXXX 1759999809637, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809639 XXXX 1759999809639, Thread 629: XXXX 1759999809639, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809639 XXXX 1759999809639, Thread 629: XXXX 1759999809639, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809639 XXXX 1759999809639, Thread 629: XXXX 1759999809639, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809644 XXXX 1759999809644, Thread 629: XXXX 1759999809644, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809644 XXXX 1759999809644, Thread 629: XXXX 1759999809644, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809644 XXXX 1759999809644, Thread 629: XXXX 1759999809644, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809646 XXXX 1759999809646, Thread 629: XXXX 1759999809646, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809646 XXXX 1759999809646, Thread 629: XXXX 1759999809646, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809646 XXXX 1759999809646, Thread 629: XXXX 1759999809646, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809651 XXXX 1759999809651, Thread 629: XXXX 1759999809651, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809651 XXXX 1759999809651, Thread 629: XXXX 1759999809651, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809651 XXXX 1759999809651, Thread 629: XXXX 1759999809651, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809653 XXXX 1759999809653, Thread 629: XXXX 1759999809653, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809653 XXXX 1759999809653, Thread 629: XXXX 1759999809653, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809653 XXXX 1759999809653, Thread 629: XXXX 1759999809653, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809658 XXXX 1759999809658, Thread 629: XXXX 1759999809658, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809658 XXXX 1759999809658, Thread 629: XXXX 1759999809658, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809658 XXXX 1759999809658, Thread 629: XXXX 1759999809658, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809660 XXXX 1759999809660, Thread 629: XXXX 1759999809660, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809660 XXXX 1759999809660, Thread 629: XXXX 1759999809660, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809660 XXXX 1759999809660, Thread 629: XXXX 1759999809660, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809665 XXXX 1759999809665, Thread 629: XXXX 1759999809665, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809665 XXXX 1759999809665, Thread 629: XXXX 1759999809665, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809665 XXXX 1759999809665, Thread 629: XXXX 1759999809665, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809667 XXXX 1759999809667, Thread 629: XXXX 1759999809667, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809667 XXXX 1759999809667, Thread 629: XXXX 1759999809667, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809667 XXXX 1759999809667, Thread 629: XXXX 1759999809667, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809672 XXXX 1759999809672, Thread 629: XXXX 1759999809672, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809672 XXXX 1759999809672, Thread 629: XXXX 1759999809672, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809672 XXXX 1759999809672, Thread 629: XXXX 1759999809672, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809675 XXXX 1759999809675, Thread 629: XXXX 1759999809675, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809675 XXXX 1759999809675, Thread 629: XXXX 1759999809675, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809675 XXXX 1759999809675, Thread 629: XXXX 1759999809675, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809680 XXXX 1759999809680, Thread 629: XXXX 1759999809680, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809680 XXXX 1759999809680, Thread 629: XXXX 1759999809680, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809680 XXXX 1759999809680, Thread 629: XXXX 1759999809680, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809683 XXXX 1759999809683, Thread 629: XXXX 1759999809683, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809683 XXXX 1759999809683, Thread 629: XXXX 1759999809683, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809683 XXXX 1759999809683, Thread 629: XXXX 1759999809683, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809688 XXXX 1759999809688, Thread 629: XXXX 1759999809688, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809688 XXXX 1759999809688, Thread 629: XXXX 1759999809688, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809688 XXXX 1759999809688, Thread 629: XXXX 1759999809688, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809691 XXXX 1759999809691, Thread 629: XXXX 1759999809691, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809691 XXXX 1759999809691, Thread 629: XXXX 1759999809691, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809691 XXXX 1759999809691, Thread 629: XXXX 1759999809691, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809696 XXXX 1759999809696, Thread 629: XXXX 1759999809696, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809696 XXXX 1759999809696, Thread 629: XXXX 1759999809696, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809696 XXXX 1759999809696, Thread 629: XXXX 1759999809696, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809700 XXXX 1759999809700, Thread 629: XXXX 1759999809700, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809700 XXXX 1759999809700, Thread 629: XXXX 1759999809700, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809700 XXXX 1759999809700, Thread 629: XXXX 1759999809700, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809705 XXXX 1759999809705, Thread 629: XXXX 1759999809705, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809705 XXXX 1759999809705, Thread 629: XXXX 1759999809705, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809705 XXXX 1759999809705, Thread 629: XXXX 1759999809705, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809708 XXXX 1759999809708, Thread 629: XXXX 1759999809708, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809708 XXXX 1759999809708, Thread 629: XXXX 1759999809708, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809708 XXXX 1759999809708, Thread 629: XXXX 1759999809708, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809713 XXXX 1759999809713, Thread 629: XXXX 1759999809713, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809713 XXXX 1759999809713, Thread 629: XXXX 1759999809713, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809713 XXXX 1759999809713, Thread 629: XXXX 1759999809713, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809716 XXXX 1759999809716, Thread 629: XXXX 1759999809716, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809716 XXXX 1759999809716, Thread 629: XXXX 1759999809716, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809716 XXXX 1759999809716, Thread 629: XXXX 1759999809716, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809721 XXXX 1759999809721, Thread 629: XXXX 1759999809721, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809721 XXXX 1759999809721, Thread 629: XXXX 1759999809721, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809721 XXXX 1759999809721, Thread 629: XXXX 1759999809721, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809724 XXXX 1759999809724, Thread 629: XXXX 1759999809724, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809724 XXXX 1759999809724, Thread 629: XXXX 1759999809724, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809724 XXXX 1759999809724, Thread 629: XXXX 1759999809724, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809729 XXXX 1759999809729, Thread 629: XXXX 1759999809729, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809729 XXXX 1759999809729, Thread 629: XXXX 1759999809729, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809729 XXXX 1759999809729, Thread 629: XXXX 1759999809729, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809731 XXXX 1759999809731, Thread 629: XXXX 1759999809731, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809731 XXXX 1759999809731, Thread 629: XXXX 1759999809731, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809731 XXXX 1759999809731, Thread 629: XXXX 1759999809731, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809736 XXXX 1759999809736, Thread 629: XXXX 1759999809736, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809736 XXXX 1759999809736, Thread 629: XXXX 1759999809736, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809736 XXXX 1759999809736, Thread 629: XXXX 1759999809736, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809740 XXXX 1759999809740, Thread 629: XXXX 1759999809740, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809740 XXXX 1759999809740, Thread 629: XXXX 1759999809740, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809740 XXXX 1759999809740, Thread 629: XXXX 1759999809740, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809745 XXXX 1759999809745, Thread 629: XXXX 1759999809745, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809745 XXXX 1759999809745, Thread 629: XXXX 1759999809745, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809745 XXXX 1759999809745, Thread 629: XXXX 1759999809745, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809749 XXXX 1759999809749, Thread 629: XXXX 1759999809749, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809749 XXXX 1759999809749, Thread 629: XXXX 1759999809749, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809749 XXXX 1759999809749, Thread 629: XXXX 1759999809749, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809754 XXXX 1759999809754, Thread 629: XXXX 1759999809754, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809754 XXXX 1759999809754, Thread 629: XXXX 1759999809754, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809754 XXXX 1759999809754, Thread 629: XXXX 1759999809754, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809757 XXXX 1759999809757, Thread 629: XXXX 1759999809757, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809757 XXXX 1759999809757, Thread 629: XXXX 1759999809757, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809757 XXXX 1759999809757, Thread 629: XXXX 1759999809757, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809762 XXXX 1759999809762, Thread 629: XXXX 1759999809762, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809762 XXXX 1759999809762, Thread 629: XXXX 1759999809762, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809762 XXXX 1759999809762, Thread 629: XXXX 1759999809762, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809764 XXXX 1759999809764, Thread 629: XXXX 1759999809764, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809764 XXXX 1759999809764, Thread 629: XXXX 1759999809764, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809764 XXXX 1759999809764, Thread 629: XXXX 1759999809764, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809769 XXXX 1759999809769, Thread 629: XXXX 1759999809769, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809769 XXXX 1759999809769, Thread 629: XXXX 1759999809769, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809769 XXXX 1759999809769, Thread 629: XXXX 1759999809769, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809773 XXXX 1759999809773, Thread 629: XXXX 1759999809773, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809773 XXXX 1759999809773, Thread 629: XXXX 1759999809773, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809773 XXXX 1759999809773, Thread 629: XXXX 1759999809773, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809778 XXXX 1759999809778, Thread 629: XXXX 1759999809778, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809778 XXXX 1759999809778, Thread 629: XXXX 1759999809778, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809778 XXXX 1759999809778, Thread 629: XXXX 1759999809778, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809781 XXXX 1759999809781, Thread 629: XXXX 1759999809781, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809781 XXXX 1759999809781, Thread 629: XXXX 1759999809781, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809781 XXXX 1759999809781, Thread 629: XXXX 1759999809781, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809786 XXXX 1759999809786, Thread 629: XXXX 1759999809786, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809786 XXXX 1759999809786, Thread 629: XXXX 1759999809786, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809786 XXXX 1759999809786, Thread 629: XXXX 1759999809786, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809788 XXXX 1759999809788, Thread 629: XXXX 1759999809788, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809788 XXXX 1759999809788, Thread 629: XXXX 1759999809788, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809788 XXXX 1759999809788, Thread 629: XXXX 1759999809788, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809793 XXXX 1759999809793, Thread 629: XXXX 1759999809793, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809793 XXXX 1759999809793, Thread 629: XXXX 1759999809793, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809793 XXXX 1759999809793, Thread 629: XXXX 1759999809793, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809796 XXXX 1759999809796, Thread 629: XXXX 1759999809796, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809796 XXXX 1759999809796, Thread 629: XXXX 1759999809796, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809796 XXXX 1759999809796, Thread 629: XXXX 1759999809796, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809801 XXXX 1759999809801, Thread 629: XXXX 1759999809801, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809801 XXXX 1759999809801, Thread 629: XXXX 1759999809801, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809801 XXXX 1759999809801, Thread 629: XXXX 1759999809801, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809804 XXXX 1759999809804, Thread 629: XXXX 1759999809804, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809804 XXXX 1759999809804, Thread 629: XXXX 1759999809804, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809804 XXXX 1759999809804, Thread 629: XXXX 1759999809804, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809809 XXXX 1759999809809, Thread 629: XXXX 1759999809809, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809809 XXXX 1759999809809, Thread 629: XXXX 1759999809809, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809809 XXXX 1759999809809, Thread 629: XXXX 1759999809809, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809812 XXXX 1759999809812, Thread 629: XXXX 1759999809812, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809812 XXXX 1759999809812, Thread 629: XXXX 1759999809812, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809812 XXXX 1759999809812, Thread 629: XXXX 1759999809812, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809817 XXXX 1759999809817, Thread 629: XXXX 1759999809817, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809817 XXXX 1759999809817, Thread 629: XXXX 1759999809817, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809817 XXXX 1759999809817, Thread 629: XXXX 1759999809817, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809820 XXXX 1759999809820, Thread 629: XXXX 1759999809820, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809820 XXXX 1759999809820, Thread 629: XXXX 1759999809820, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809820 XXXX 1759999809820, Thread 629: XXXX 1759999809820, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809825 XXXX 1759999809825, Thread 629: XXXX 1759999809825, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809825 XXXX 1759999809825, Thread 629: XXXX 1759999809825, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809825 XXXX 1759999809825, Thread 629: XXXX 1759999809825, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809829 XXXX 1759999809829, Thread 629: XXXX 1759999809829, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809829 XXXX 1759999809829, Thread 629: XXXX 1759999809829, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809829 XXXX 1759999809829, Thread 629: XXXX 1759999809829, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809834 XXXX 1759999809834, Thread 629: XXXX 1759999809834, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809834 XXXX 1759999809834, Thread 629: XXXX 1759999809834, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809834 XXXX 1759999809834, Thread 629: XXXX 1759999809834, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809837 XXXX 1759999809837, Thread 629: XXXX 1759999809837, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809837 XXXX 1759999809837, Thread 629: XXXX 1759999809837, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809837 XXXX 1759999809837, Thread 629: XXXX 1759999809837, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809842 XXXX 1759999809842, Thread 629: XXXX 1759999809842, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809842 XXXX 1759999809842, Thread 629: XXXX 1759999809842, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809842 XXXX 1759999809842, Thread 629: XXXX 1759999809842, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809845 XXXX 1759999809845, Thread 629: XXXX 1759999809845, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809845 XXXX 1759999809845, Thread 629: XXXX 1759999809845, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809845 XXXX 1759999809845, Thread 629: XXXX 1759999809845, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809850 XXXX 1759999809850, Thread 629: XXXX 1759999809850, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809850 XXXX 1759999809850, Thread 629: XXXX 1759999809850, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809850 XXXX 1759999809850, Thread 629: XXXX 1759999809850, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809854 XXXX 1759999809854, Thread 629: XXXX 1759999809854, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809854 XXXX 1759999809854, Thread 629: XXXX 1759999809854, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809854 XXXX 1759999809854, Thread 629: XXXX 1759999809854, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809859 XXXX 1759999809859, Thread 629: XXXX 1759999809859, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809859 XXXX 1759999809859, Thread 629: XXXX 1759999809859, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809859 XXXX 1759999809859, Thread 629: XXXX 1759999809859, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809862 XXXX 1759999809862, Thread 629: XXXX 1759999809862, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809862 XXXX 1759999809862, Thread 629: XXXX 1759999809862, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809862 XXXX 1759999809862, Thread 629: XXXX 1759999809862, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809867 XXXX 1759999809867, Thread 629: XXXX 1759999809867, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809867 XXXX 1759999809867, Thread 629: XXXX 1759999809867, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809867 XXXX 1759999809867, Thread 629: XXXX 1759999809867, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809870 XXXX 1759999809870, Thread 629: XXXX 1759999809870, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809870 XXXX 1759999809870, Thread 629: XXXX 1759999809870, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809870 XXXX 1759999809870, Thread 629: XXXX 1759999809870, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809875 XXXX 1759999809875, Thread 629: XXXX 1759999809875, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809875 XXXX 1759999809875, Thread 629: XXXX 1759999809875, Entering Thread 629: Commands::runScriptWithUpload, script name = ReadSFR  
+629 1759999809875 XXXX 1759999809875, Thread 629: XXXX 1759999809875, Entering Thread 629: ToolCommUsb::readTransfer, sideData is 0x18 bytes long, transferDataLength is 0x2 bytes long  
+629 1759999809877 XXXX 1759999809877, Thread 629: XXXX 1759999809877, Exiting Thread 629: ToolCommUsb::readTransfer,  cr.status = 0x0  
+629 1759999809877 XXXX 1759999809877, Thread 629: XXXX 1759999809877, Exiting Thread 629: Commands::runScriptWithUpload  
+629 1759999809877 XXXX 1759999809877, Thread 629: XXXX 1759999809877, Entering Thread 629: Commands::runScriptWithDownload, script name = WriteSFR  
+629 1759999809882 XXXX 1759999809882, Thread 629: XXXX 1759999809882, Exiting Thread 629: Commands::runScriptWithDownload(WriteSFR)  
+629 1759999809882 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Post:SetFreezePerihperalInfo
+629 1759999809882 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return Value
+629 1759999809882 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 none
+629 1759999809882 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return End
 
-43764 1758615648406 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:GetFirmwareInfo
-43764 1758615648406 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-43764 1758615648406 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 null
-43764 1758615648406 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Post:GetFirmwareInfo
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return Value
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 FirmwareInfo: Values:
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 FirmwareInfo: boot = false, bootVer = 01.00.00, apVer = 02.01.00, fpgaVer = 01.00.14, scriptVer = 00.06.71, macAddress = 0495683578952544949484954484854, devID = a1020e01, devID1 = 2, devSN0 = ffffffff, devSN1 = ffffffff, serialNumber = BUR202671191, appCommitID = null, scriptCommitID = 74cdf38a4d, PCB_ID = 3
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Return End
+629 1759999809883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Pre:GetPC
+629 1759999809883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload
+629 1759999809883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 null
+629 1759999809883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload End
+629 1759999809883 XXXX 1759999809883, Thread 629: XXXX 1759999809883, Entering Thread 629: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+629 1759999809884 XXXX 1759999809884, Thread 629: XXXX 1759999809884, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999809884 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Post:GetPC
+629 1759999809884 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return Value
+629 1759999809884 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 0
+629 1759999809884 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return End
 
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Pre:SetPowerInfo
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 PowerInfo: Values:
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 PowerInfo: shotDownSystem = true, isToolPower = false, voltage = 0,000000, useVppFirst = false, useLowVoltageProgramming = true, useMaintainActivePower = false
-43764 1758615648407 GEN4_TO_CONTROLLER_LOG:GEN4_CONNECT_INT_LOG_dsPIC33EP512MU814 Payload End
-43764 1758615648407 XXXX 1758615648407, Thread 43764: XXXX 1758615648407, Entering Thread 43764: Commands::runScriptBasic with script contents. contents[0] = 0x39, ...  
-43764 1758615648414 XXXX 1758615648414, Thread 43764: ToolCommUsb::writeHeaderAndGetResponse, response does not meach. got = 0x200afe1, expected 0xd 
-43764 1758615648414 XXXX 1758615648414, Thread 43764: transfer: exception after writeHeaderAndGetResult Protocol failure: In writeHeaderAndGetResponse expected 0xd received 0x200afe1 
-43764 1758615648414 XXXX 1758615648414, Thread 43764: XXXX 1758615648414, Entering Thread 43764: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
-43764 1758615648414 XXXX 1758615648414, Thread 43764: Send Abort Script Engine Command 
-43764 1758615648414 XXXX 1758615648414, Thread 43764: XXXX 1758615648414, Entering Thread 43764: ToolCommUsb::killScriptEngine  
-43764 1758615648415 XXXX 1758615648415, Thread 43764: XXXX 1758615648415, Exiting Thread 43764: ToolCommUsb::killScriptEngine  
-43764 1758615648415 XXXX 1758615648415, Thread 43764: Successfully Sent Abort Script EngineCommand 
-43764 1758615648415 XXXX 1758615648415, Thread 43764: Exiting recoverFromProtocolError 
-43764 1758615648415 XXXX 1758615648415, Thread 43764: XXXX 1758615648415, Exiting Thread 43764: ToolCommUsb::recoverFromProtocolError,  
-43764 1758615648415 XXXX 1758615648415, Thread 43764: transfer: after recoverFromProtocolError 
+629 1759999809899 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Pre:RunTarget
+629 1759999809899 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload
+629 1759999809899 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 com.microchip.mplab.mdbcore.RI4Tool.DebugHandler@2a064041
+629 1759999809899 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Payload End
+629 1759999809899 XXXX 1759999809899, Thread 629: XXXX 1759999809899, Entering Thread 629: Commands::runScriptBasic, script name = Run, timeOut = -1 ms  
+629 1759999809900 XXXX 1759999809900, Thread 629: XXXX 1759999809900, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999809900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Post:RunTarget
+629 1759999809900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return Value
+629 1759999809900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 true
+629 1759999809900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_dsPIC33EP512MU814 Return End
+629 1759999810160 XXXX 1759999810160, Thread 629: XXXX 1759999810160, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810163 XXXX 1759999810163, Thread 629: XXXX 1759999810163, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810262 XXXX 1759999810262, Thread 629: XXXX 1759999810262, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810264 XXXX 1759999810264, Thread 629: XXXX 1759999810264, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810362 XXXX 1759999810362, Thread 629: XXXX 1759999810362, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810364 XXXX 1759999810364, Thread 629: XXXX 1759999810364, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810464 XXXX 1759999810464, Thread 629: XXXX 1759999810464, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810466 XXXX 1759999810466, Thread 629: XXXX 1759999810466, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810566 XXXX 1759999810566, Thread 629: XXXX 1759999810566, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810568 XXXX 1759999810568, Thread 629: XXXX 1759999810568, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810667 XXXX 1759999810667, Thread 629: XXXX 1759999810667, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810669 XXXX 1759999810669, Thread 629: XXXX 1759999810669, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810769 XXXX 1759999810769, Thread 629: XXXX 1759999810769, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810771 XXXX 1759999810771, Thread 629: XXXX 1759999810771, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810872 XXXX 1759999810872, Thread 629: XXXX 1759999810872, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810873 XXXX 1759999810873, Thread 629: XXXX 1759999810873, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999810973 XXXX 1759999810973, Thread 629: XXXX 1759999810973, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999810975 XXXX 1759999810975, Thread 629: XXXX 1759999810975, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811075 XXXX 1759999811075, Thread 629: XXXX 1759999811075, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811077 XXXX 1759999811077, Thread 629: XXXX 1759999811077, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811181 XXXX 1759999811181, Thread 629: XXXX 1759999811181, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811183 XXXX 1759999811183, Thread 629: XXXX 1759999811183, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811284 XXXX 1759999811284, Thread 629: XXXX 1759999811284, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811285 XXXX 1759999811285, Thread 629: XXXX 1759999811285, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811385 XXXX 1759999811385, Thread 629: XXXX 1759999811385, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811387 XXXX 1759999811387, Thread 629: XXXX 1759999811387, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811486 XXXX 1759999811486, Thread 629: XXXX 1759999811486, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811488 XXXX 1759999811488, Thread 629: XXXX 1759999811488, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811587 XXXX 1759999811587, Thread 629: XXXX 1759999811587, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811589 XXXX 1759999811589, Thread 629: XXXX 1759999811589, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811688 XXXX 1759999811688, Thread 629: XXXX 1759999811688, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811690 XXXX 1759999811690, Thread 629: XXXX 1759999811690, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811790 XXXX 1759999811790, Thread 629: XXXX 1759999811790, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811792 XXXX 1759999811792, Thread 629: XXXX 1759999811792, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811892 XXXX 1759999811892, Thread 629: XXXX 1759999811892, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811894 XXXX 1759999811894, Thread 629: XXXX 1759999811894, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999811996 XXXX 1759999811996, Thread 629: XXXX 1759999811996, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999811998 XXXX 1759999811998, Thread 629: XXXX 1759999811998, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812098 XXXX 1759999812098, Thread 629: XXXX 1759999812098, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812100 XXXX 1759999812100, Thread 629: XXXX 1759999812100, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812198 XXXX 1759999812198, Thread 629: XXXX 1759999812198, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812200 XXXX 1759999812200, Thread 629: XXXX 1759999812200, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812300 XXXX 1759999812300, Thread 629: XXXX 1759999812300, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812302 XXXX 1759999812302, Thread 629: XXXX 1759999812302, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812400 XXXX 1759999812400, Thread 629: XXXX 1759999812400, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812402 XXXX 1759999812402, Thread 629: XXXX 1759999812402, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812501 XXXX 1759999812501, Thread 629: XXXX 1759999812501, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812503 XXXX 1759999812503, Thread 629: XXXX 1759999812503, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812603 XXXX 1759999812603, Thread 629: XXXX 1759999812603, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812605 XXXX 1759999812605, Thread 629: XXXX 1759999812605, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812705 XXXX 1759999812705, Thread 629: XXXX 1759999812705, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812707 XXXX 1759999812707, Thread 629: XXXX 1759999812707, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812807 XXXX 1759999812807, Thread 629: XXXX 1759999812807, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812809 XXXX 1759999812809, Thread 629: XXXX 1759999812809, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999812908 XXXX 1759999812908, Thread 629: XXXX 1759999812908, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999812910 XXXX 1759999812910, Thread 629: XXXX 1759999812910, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813010 XXXX 1759999813010, Thread 629: XXXX 1759999813010, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813012 XXXX 1759999813012, Thread 629: XXXX 1759999813012, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813112 XXXX 1759999813112, Thread 629: XXXX 1759999813112, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813114 XXXX 1759999813114, Thread 629: XXXX 1759999813114, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813214 XXXX 1759999813214, Thread 629: XXXX 1759999813214, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813216 XXXX 1759999813216, Thread 629: XXXX 1759999813216, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813316 XXXX 1759999813316, Thread 629: XXXX 1759999813316, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813318 XXXX 1759999813318, Thread 629: XXXX 1759999813318, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813418 XXXX 1759999813418, Thread 629: XXXX 1759999813418, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813420 XXXX 1759999813420, Thread 629: XXXX 1759999813420, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813520 XXXX 1759999813520, Thread 629: XXXX 1759999813520, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813522 XXXX 1759999813522, Thread 629: XXXX 1759999813522, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813622 XXXX 1759999813622, Thread 629: XXXX 1759999813622, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813624 XXXX 1759999813624, Thread 629: XXXX 1759999813624, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813723 XXXX 1759999813723, Thread 629: XXXX 1759999813723, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813726 XXXX 1759999813726, Thread 629: XXXX 1759999813726, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813823 XXXX 1759999813823, Thread 629: XXXX 1759999813823, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813825 XXXX 1759999813825, Thread 629: XXXX 1759999813825, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999813923 XXXX 1759999813923, Thread 629: XXXX 1759999813923, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999813925 XXXX 1759999813925, Thread 629: XXXX 1759999813925, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814024 XXXX 1759999814024, Thread 629: XXXX 1759999814024, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814025 XXXX 1759999814025, Thread 629: XXXX 1759999814025, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814124 XXXX 1759999814124, Thread 629: XXXX 1759999814124, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814126 XXXX 1759999814126, Thread 629: XXXX 1759999814126, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814226 XXXX 1759999814226, Thread 629: XXXX 1759999814226, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814228 XXXX 1759999814228, Thread 629: XXXX 1759999814228, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814327 XXXX 1759999814327, Thread 629: XXXX 1759999814327, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814329 XXXX 1759999814329, Thread 629: XXXX 1759999814329, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814427 XXXX 1759999814427, Thread 629: XXXX 1759999814427, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814429 XXXX 1759999814429, Thread 629: XXXX 1759999814429, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814527 XXXX 1759999814527, Thread 629: XXXX 1759999814527, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814529 XXXX 1759999814529, Thread 629: XXXX 1759999814529, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814627 XXXX 1759999814627, Thread 629: XXXX 1759999814627, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814629 XXXX 1759999814629, Thread 629: XXXX 1759999814629, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814729 XXXX 1759999814729, Thread 629: XXXX 1759999814729, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814730 XXXX 1759999814730, Thread 629: XXXX 1759999814730, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814829 XXXX 1759999814829, Thread 629: XXXX 1759999814829, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814831 XXXX 1759999814831, Thread 629: XXXX 1759999814831, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999814930 XXXX 1759999814930, Thread 629: XXXX 1759999814930, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999814932 XXXX 1759999814932, Thread 629: XXXX 1759999814932, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815032 XXXX 1759999815032, Thread 629: XXXX 1759999815032, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815034 XXXX 1759999815034, Thread 629: XXXX 1759999815034, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815132 XXXX 1759999815132, Thread 629: XXXX 1759999815132, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815134 XXXX 1759999815134, Thread 629: XXXX 1759999815134, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815232 XXXX 1759999815232, Thread 629: XXXX 1759999815232, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815234 XXXX 1759999815234, Thread 629: XXXX 1759999815234, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815333 XXXX 1759999815333, Thread 629: XXXX 1759999815333, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815336 XXXX 1759999815336, Thread 629: XXXX 1759999815336, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815446 XXXX 1759999815446, Thread 629: XXXX 1759999815446, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815448 XXXX 1759999815448, Thread 629: XXXX 1759999815448, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815546 XXXX 1759999815546, Thread 629: XXXX 1759999815546, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815546 XXXX 1759999815546, Thread 629: XXXX 1759999815546, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815646 XXXX 1759999815646, Thread 629: XXXX 1759999815646, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815649 XXXX 1759999815649, Thread 629: XXXX 1759999815649, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815750 XXXX 1759999815750, Thread 629: XXXX 1759999815750, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815752 XXXX 1759999815752, Thread 629: XXXX 1759999815752, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815862 XXXX 1759999815862, Thread 629: XXXX 1759999815862, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815864 XXXX 1759999815864, Thread 629: XXXX 1759999815864, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999815966 XXXX 1759999815966, Thread 629: XXXX 1759999815966, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999815968 XXXX 1759999815968, Thread 629: XXXX 1759999815968, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816079 XXXX 1759999816079, Thread 629: XXXX 1759999816079, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816081 XXXX 1759999816081, Thread 629: XXXX 1759999816081, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816182 XXXX 1759999816182, Thread 629: XXXX 1759999816182, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816184 XXXX 1759999816184, Thread 629: XXXX 1759999816184, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816289 XXXX 1759999816289, Thread 629: XXXX 1759999816289, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816291 XXXX 1759999816291, Thread 629: XXXX 1759999816291, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816394 XXXX 1759999816394, Thread 629: XXXX 1759999816394, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816396 XXXX 1759999816396, Thread 629: XXXX 1759999816396, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816497 XXXX 1759999816497, Thread 629: XXXX 1759999816497, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816498 XXXX 1759999816498, Thread 629: XXXX 1759999816498, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816613 XXXX 1759999816613, Thread 629: XXXX 1759999816613, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816614 XXXX 1759999816614, Thread 629: XXXX 1759999816614, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816717 XXXX 1759999816717, Thread 629: XXXX 1759999816717, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816720 XXXX 1759999816720, Thread 629: XXXX 1759999816720, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816831 XXXX 1759999816831, Thread 629: XXXX 1759999816831, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816832 XXXX 1759999816832, Thread 629: XXXX 1759999816832, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999816936 XXXX 1759999816936, Thread 629: XXXX 1759999816936, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999816938 XXXX 1759999816938, Thread 629: XXXX 1759999816938, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817036 XXXX 1759999817036, Thread 629: XXXX 1759999817036, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817039 XXXX 1759999817039, Thread 629: XXXX 1759999817039, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817141 XXXX 1759999817141, Thread 629: XXXX 1759999817141, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817143 XXXX 1759999817143, Thread 629: XXXX 1759999817143, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817247 XXXX 1759999817247, Thread 629: XXXX 1759999817247, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817250 XXXX 1759999817250, Thread 629: XXXX 1759999817250, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817361 XXXX 1759999817361, Thread 629: XXXX 1759999817361, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817363 XXXX 1759999817363, Thread 629: XXXX 1759999817363, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817464 XXXX 1759999817464, Thread 629: XXXX 1759999817464, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817466 XXXX 1759999817466, Thread 629: XXXX 1759999817466, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817569 XXXX 1759999817569, Thread 629: XXXX 1759999817569, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817571 XXXX 1759999817571, Thread 629: XXXX 1759999817571, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817682 XXXX 1759999817682, Thread 629: XXXX 1759999817682, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817684 XXXX 1759999817684, Thread 629: XXXX 1759999817684, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817782 XXXX 1759999817782, Thread 629: XXXX 1759999817782, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817784 XXXX 1759999817784, Thread 629: XXXX 1759999817784, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999817899 XXXX 1759999817899, Thread 629: XXXX 1759999817899, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999817901 XXXX 1759999817901, Thread 629: XXXX 1759999817901, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818002 XXXX 1759999818002, Thread 629: XXXX 1759999818002, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818004 XXXX 1759999818004, Thread 629: XXXX 1759999818004, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818114 XXXX 1759999818114, Thread 629: XXXX 1759999818114, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818117 XXXX 1759999818117, Thread 629: XXXX 1759999818117, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818214 XXXX 1759999818214, Thread 629: XXXX 1759999818214, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818216 XXXX 1759999818216, Thread 629: XXXX 1759999818216, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818315 XXXX 1759999818315, Thread 629: XXXX 1759999818315, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818317 XXXX 1759999818317, Thread 629: XXXX 1759999818317, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818431 XXXX 1759999818431, Thread 629: XXXX 1759999818431, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818432 XXXX 1759999818432, Thread 629: XXXX 1759999818432, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818532 XXXX 1759999818532, Thread 629: XXXX 1759999818532, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818534 XXXX 1759999818534, Thread 629: XXXX 1759999818534, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818636 XXXX 1759999818636, Thread 629: XXXX 1759999818636, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818638 XXXX 1759999818638, Thread 629: XXXX 1759999818638, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818749 XXXX 1759999818749, Thread 629: XXXX 1759999818749, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818751 XXXX 1759999818751, Thread 629: XXXX 1759999818751, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818849 XXXX 1759999818849, Thread 629: XXXX 1759999818849, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818851 XXXX 1759999818851, Thread 629: XXXX 1759999818851, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999818952 XXXX 1759999818952, Thread 629: XXXX 1759999818952, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999818954 XXXX 1759999818954, Thread 629: XXXX 1759999818954, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819063 XXXX 1759999819063, Thread 629: XXXX 1759999819063, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819065 XXXX 1759999819065, Thread 629: XXXX 1759999819065, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819165 XXXX 1759999819165, Thread 629: XXXX 1759999819165, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819167 XXXX 1759999819167, Thread 629: XXXX 1759999819167, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819269 XXXX 1759999819269, Thread 629: XXXX 1759999819269, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819271 XXXX 1759999819271, Thread 629: XXXX 1759999819271, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819383 XXXX 1759999819383, Thread 629: XXXX 1759999819383, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819385 XXXX 1759999819385, Thread 629: XXXX 1759999819385, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819497 XXXX 1759999819497, Thread 629: XXXX 1759999819497, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819499 XXXX 1759999819499, Thread 629: XXXX 1759999819499, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819598 XXXX 1759999819598, Thread 629: XXXX 1759999819598, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819601 XXXX 1759999819601, Thread 629: XXXX 1759999819601, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819698 XXXX 1759999819698, Thread 629: XXXX 1759999819698, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819701 XXXX 1759999819701, Thread 629: XXXX 1759999819701, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819815 XXXX 1759999819815, Thread 629: XXXX 1759999819815, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819816 XXXX 1759999819816, Thread 629: XXXX 1759999819816, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999819931 XXXX 1759999819931, Thread 629: XXXX 1759999819931, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999819932 XXXX 1759999819932, Thread 629: XXXX 1759999819932, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820032 XXXX 1759999820032, Thread 629: XXXX 1759999820032, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820033 XXXX 1759999820033, Thread 629: XXXX 1759999820033, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820147 XXXX 1759999820147, Thread 629: XXXX 1759999820147, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820150 XXXX 1759999820150, Thread 629: XXXX 1759999820150, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820247 XXXX 1759999820247, Thread 629: XXXX 1759999820247, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820250 XXXX 1759999820250, Thread 629: XXXX 1759999820250, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820349 XXXX 1759999820349, Thread 629: XXXX 1759999820349, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820352 XXXX 1759999820352, Thread 629: XXXX 1759999820352, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820459 XXXX 1759999820459, Thread 629: XXXX 1759999820459, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820461 XXXX 1759999820461, Thread 629: XXXX 1759999820461, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820564 XXXX 1759999820564, Thread 629: XXXX 1759999820564, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820567 XXXX 1759999820567, Thread 629: XXXX 1759999820567, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820666 XXXX 1759999820666, Thread 629: XXXX 1759999820666, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820667 XXXX 1759999820667, Thread 629: XXXX 1759999820667, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820767 XXXX 1759999820767, Thread 629: XXXX 1759999820767, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820769 XXXX 1759999820769, Thread 629: XXXX 1759999820769, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820881 XXXX 1759999820881, Thread 629: XXXX 1759999820881, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820884 XXXX 1759999820884, Thread 629: XXXX 1759999820884, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999820983 XXXX 1759999820983, Thread 629: XXXX 1759999820983, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999820985 XXXX 1759999820985, Thread 629: XXXX 1759999820985, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821099 XXXX 1759999821099, Thread 629: XXXX 1759999821099, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821101 XXXX 1759999821101, Thread 629: XXXX 1759999821101, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821200 XXXX 1759999821200, Thread 629: XXXX 1759999821200, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821202 XXXX 1759999821202, Thread 629: XXXX 1759999821202, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821315 XXXX 1759999821315, Thread 629: XXXX 1759999821315, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821318 XXXX 1759999821318, Thread 629: XXXX 1759999821318, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821417 XXXX 1759999821417, Thread 629: XXXX 1759999821417, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821419 XXXX 1759999821419, Thread 629: XXXX 1759999821419, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821533 XXXX 1759999821533, Thread 629: XXXX 1759999821533, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821534 XXXX 1759999821534, Thread 629: XXXX 1759999821534, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821649 XXXX 1759999821649, Thread 629: XXXX 1759999821649, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821650 XXXX 1759999821650, Thread 629: XXXX 1759999821650, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821766 XXXX 1759999821766, Thread 629: XXXX 1759999821766, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821768 XXXX 1759999821768, Thread 629: XXXX 1759999821768, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821867 XXXX 1759999821867, Thread 629: XXXX 1759999821867, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821869 XXXX 1759999821869, Thread 629: XXXX 1759999821869, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999821981 XXXX 1759999821981, Thread 629: XXXX 1759999821981, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999821983 XXXX 1759999821983, Thread 629: XXXX 1759999821983, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822097 XXXX 1759999822097, Thread 629: XXXX 1759999822097, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822099 XXXX 1759999822099, Thread 629: XXXX 1759999822099, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822202 XXXX 1759999822202, Thread 629: XXXX 1759999822202, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822204 XXXX 1759999822204, Thread 629: XXXX 1759999822204, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822316 XXXX 1759999822316, Thread 629: XXXX 1759999822316, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822318 XXXX 1759999822318, Thread 629: XXXX 1759999822318, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822420 XXXX 1759999822420, Thread 629: XXXX 1759999822420, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822422 XXXX 1759999822422, Thread 629: XXXX 1759999822422, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822522 XXXX 1759999822522, Thread 629: XXXX 1759999822522, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822523 XXXX 1759999822523, Thread 629: XXXX 1759999822523, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822625 XXXX 1759999822625, Thread 629: XXXX 1759999822625, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822627 XXXX 1759999822627, Thread 629: XXXX 1759999822627, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822734 XXXX 1759999822734, Thread 629: XXXX 1759999822734, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822735 XXXX 1759999822735, Thread 629: XXXX 1759999822735, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822849 XXXX 1759999822849, Thread 629: XXXX 1759999822849, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822852 XXXX 1759999822852, Thread 629: XXXX 1759999822852, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999822949 XXXX 1759999822949, Thread 629: XXXX 1759999822949, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999822952 XXXX 1759999822952, Thread 629: XXXX 1759999822952, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823051 XXXX 1759999823051, Thread 629: XXXX 1759999823051, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823052 XXXX 1759999823052, Thread 629: XXXX 1759999823052, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823151 XXXX 1759999823151, Thread 629: XXXX 1759999823151, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823152 XXXX 1759999823152, Thread 629: XXXX 1759999823152, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823259 XXXX 1759999823259, Thread 629: XXXX 1759999823259, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823261 XXXX 1759999823261, Thread 629: XXXX 1759999823261, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823363 XXXX 1759999823363, Thread 629: XXXX 1759999823363, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823365 XXXX 1759999823365, Thread 629: XXXX 1759999823365, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823466 XXXX 1759999823466, Thread 629: XXXX 1759999823466, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823467 XXXX 1759999823467, Thread 629: XXXX 1759999823467, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823578 XXXX 1759999823578, Thread 629: XXXX 1759999823578, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823580 XXXX 1759999823580, Thread 629: XXXX 1759999823580, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823683 XXXX 1759999823683, Thread 629: XXXX 1759999823683, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823691 XXXX 1759999823691, Thread 629: XXXX 1759999823691, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823785 XXXX 1759999823785, Thread 629: XXXX 1759999823785, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823787 XXXX 1759999823787, Thread 629: XXXX 1759999823787, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999823895 XXXX 1759999823895, Thread 629: XXXX 1759999823895, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999823897 XXXX 1759999823897, Thread 629: XXXX 1759999823897, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824005 XXXX 1759999824005, Thread 629: XXXX 1759999824005, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824007 XXXX 1759999824007, Thread 629: XXXX 1759999824007, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824116 XXXX 1759999824116, Thread 629: XXXX 1759999824116, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824118 XXXX 1759999824118, Thread 629: XXXX 1759999824118, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824217 XXXX 1759999824217, Thread 629: XXXX 1759999824217, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824218 XXXX 1759999824218, Thread 629: XXXX 1759999824218, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824328 XXXX 1759999824328, Thread 629: XXXX 1759999824328, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824330 XXXX 1759999824330, Thread 629: XXXX 1759999824330, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824439 XXXX 1759999824439, Thread 629: XXXX 1759999824439, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824441 XXXX 1759999824441, Thread 629: XXXX 1759999824441, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824549 XXXX 1759999824549, Thread 629: XXXX 1759999824549, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824551 XXXX 1759999824551, Thread 629: XXXX 1759999824551, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824660 XXXX 1759999824660, Thread 629: XXXX 1759999824660, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824662 XXXX 1759999824662, Thread 629: XXXX 1759999824662, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824767 XXXX 1759999824767, Thread 629: XXXX 1759999824767, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824769 XXXX 1759999824769, Thread 629: XXXX 1759999824769, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824878 XXXX 1759999824878, Thread 629: XXXX 1759999824878, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824880 XXXX 1759999824880, Thread 629: XXXX 1759999824880, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999824988 XXXX 1759999824988, Thread 629: XXXX 1759999824988, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999824990 XXXX 1759999824990, Thread 629: XXXX 1759999824990, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825099 XXXX 1759999825099, Thread 629: XXXX 1759999825099, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825101 XXXX 1759999825101, Thread 629: XXXX 1759999825101, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825209 XXXX 1759999825209, Thread 629: XXXX 1759999825209, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825211 XXXX 1759999825211, Thread 629: XXXX 1759999825211, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825318 XXXX 1759999825318, Thread 629: XXXX 1759999825318, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825320 XXXX 1759999825320, Thread 629: XXXX 1759999825320, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825428 XXXX 1759999825428, Thread 629: XXXX 1759999825428, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825430 XXXX 1759999825430, Thread 629: XXXX 1759999825430, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825539 XXXX 1759999825539, Thread 629: XXXX 1759999825539, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825541 XXXX 1759999825541, Thread 629: XXXX 1759999825541, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825649 XXXX 1759999825649, Thread 629: XXXX 1759999825649, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825651 XXXX 1759999825651, Thread 629: XXXX 1759999825651, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825751 XXXX 1759999825751, Thread 629: XXXX 1759999825751, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825754 XXXX 1759999825754, Thread 629: XXXX 1759999825754, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825864 XXXX 1759999825864, Thread 629: XXXX 1759999825864, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825866 XXXX 1759999825866, Thread 629: XXXX 1759999825866, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999825975 XXXX 1759999825975, Thread 629: XXXX 1759999825975, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999825977 XXXX 1759999825977, Thread 629: XXXX 1759999825977, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826085 XXXX 1759999826085, Thread 629: XXXX 1759999826085, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826087 XXXX 1759999826087, Thread 629: XXXX 1759999826087, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826196 XXXX 1759999826196, Thread 629: XXXX 1759999826196, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826198 XXXX 1759999826198, Thread 629: XXXX 1759999826198, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826302 XXXX 1759999826302, Thread 629: XXXX 1759999826302, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826304 XXXX 1759999826304, Thread 629: XXXX 1759999826304, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826414 XXXX 1759999826414, Thread 629: XXXX 1759999826414, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826416 XXXX 1759999826416, Thread 629: XXXX 1759999826416, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826524 XXXX 1759999826524, Thread 629: XXXX 1759999826524, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826526 XXXX 1759999826526, Thread 629: XXXX 1759999826526, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826635 XXXX 1759999826635, Thread 629: XXXX 1759999826635, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826637 XXXX 1759999826637, Thread 629: XXXX 1759999826637, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826745 XXXX 1759999826745, Thread 629: XXXX 1759999826745, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826747 XXXX 1759999826747, Thread 629: XXXX 1759999826747, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826851 XXXX 1759999826851, Thread 629: XXXX 1759999826851, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826853 XXXX 1759999826853, Thread 629: XXXX 1759999826853, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999826963 XXXX 1759999826963, Thread 629: XXXX 1759999826963, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999826965 XXXX 1759999826965, Thread 629: XXXX 1759999826965, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827074 XXXX 1759999827074, Thread 629: XXXX 1759999827074, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827076 XXXX 1759999827076, Thread 629: XXXX 1759999827076, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827184 XXXX 1759999827184, Thread 629: XXXX 1759999827184, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827186 XXXX 1759999827186, Thread 629: XXXX 1759999827186, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827295 XXXX 1759999827295, Thread 629: XXXX 1759999827295, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827297 XXXX 1759999827297, Thread 629: XXXX 1759999827297, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827395 XXXX 1759999827395, Thread 629: XXXX 1759999827395, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827397 XXXX 1759999827397, Thread 629: XXXX 1759999827397, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827497 XXXX 1759999827497, Thread 629: XXXX 1759999827497, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827499 XXXX 1759999827499, Thread 629: XXXX 1759999827499, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827608 XXXX 1759999827608, Thread 629: XXXX 1759999827608, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827610 XXXX 1759999827610, Thread 629: XXXX 1759999827610, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827718 XXXX 1759999827718, Thread 629: XXXX 1759999827718, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827720 XXXX 1759999827720, Thread 629: XXXX 1759999827720, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827828 XXXX 1759999827828, Thread 629: XXXX 1759999827828, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827830 XXXX 1759999827830, Thread 629: XXXX 1759999827830, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999827936 XXXX 1759999827936, Thread 629: XXXX 1759999827936, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999827938 XXXX 1759999827938, Thread 629: XXXX 1759999827938, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828047 XXXX 1759999828047, Thread 629: XXXX 1759999828047, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828049 XXXX 1759999828049, Thread 629: XXXX 1759999828049, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828157 XXXX 1759999828157, Thread 629: XXXX 1759999828157, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828161 XXXX 1759999828161, Thread 629: XXXX 1759999828161, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828268 XXXX 1759999828268, Thread 629: XXXX 1759999828268, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828270 XXXX 1759999828270, Thread 629: XXXX 1759999828270, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828379 XXXX 1759999828379, Thread 629: XXXX 1759999828379, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828379 XXXX 1759999828379, Thread 629: XXXX 1759999828379, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828485 XXXX 1759999828485, Thread 629: XXXX 1759999828485, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828487 XXXX 1759999828487, Thread 629: XXXX 1759999828487, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828595 XXXX 1759999828595, Thread 629: XXXX 1759999828595, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828597 XXXX 1759999828597, Thread 629: XXXX 1759999828597, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828706 XXXX 1759999828706, Thread 629: XXXX 1759999828706, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828708 XXXX 1759999828708, Thread 629: XXXX 1759999828708, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828816 XXXX 1759999828816, Thread 629: XXXX 1759999828816, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828818 XXXX 1759999828818, Thread 629: XXXX 1759999828818, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999828921 XXXX 1759999828921, Thread 629: XXXX 1759999828921, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999828924 XXXX 1759999828924, Thread 629: XXXX 1759999828924, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829034 XXXX 1759999829034, Thread 629: XXXX 1759999829034, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829036 XXXX 1759999829036, Thread 629: XXXX 1759999829036, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829145 XXXX 1759999829145, Thread 629: XXXX 1759999829145, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829147 XXXX 1759999829147, Thread 629: XXXX 1759999829147, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829255 XXXX 1759999829255, Thread 629: XXXX 1759999829255, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829257 XXXX 1759999829257, Thread 629: XXXX 1759999829257, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829366 XXXX 1759999829366, Thread 629: XXXX 1759999829366, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829368 XXXX 1759999829368, Thread 629: XXXX 1759999829368, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829472 XXXX 1759999829472, Thread 629: XXXX 1759999829472, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829474 XXXX 1759999829474, Thread 629: XXXX 1759999829474, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829584 XXXX 1759999829584, Thread 629: XXXX 1759999829584, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829586 XXXX 1759999829586, Thread 629: XXXX 1759999829586, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829694 XXXX 1759999829694, Thread 629: XXXX 1759999829694, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829696 XXXX 1759999829696, Thread 629: XXXX 1759999829696, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829805 XXXX 1759999829805, Thread 629: XXXX 1759999829805, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829809 XXXX 1759999829809, Thread 629: XXXX 1759999829809, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999829915 XXXX 1759999829915, Thread 629: XXXX 1759999829915, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999829917 XXXX 1759999829917, Thread 629: XXXX 1759999829917, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830020 XXXX 1759999830020, Thread 629: XXXX 1759999830020, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830022 XXXX 1759999830022, Thread 629: XXXX 1759999830022, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830133 XXXX 1759999830133, Thread 629: XXXX 1759999830133, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830135 XXXX 1759999830135, Thread 629: XXXX 1759999830135, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830244 XXXX 1759999830244, Thread 629: XXXX 1759999830244, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830246 XXXX 1759999830246, Thread 629: XXXX 1759999830246, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830354 XXXX 1759999830354, Thread 629: XXXX 1759999830354, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830356 XXXX 1759999830356, Thread 629: XXXX 1759999830356, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830464 XXXX 1759999830464, Thread 629: XXXX 1759999830464, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830466 XXXX 1759999830466, Thread 629: XXXX 1759999830466, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830571 XXXX 1759999830571, Thread 629: XXXX 1759999830571, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830573 XXXX 1759999830573, Thread 629: XXXX 1759999830573, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830682 XXXX 1759999830682, Thread 629: XXXX 1759999830682, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830684 XXXX 1759999830684, Thread 629: XXXX 1759999830684, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830792 XXXX 1759999830792, Thread 629: XXXX 1759999830792, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830794 XXXX 1759999830794, Thread 629: XXXX 1759999830794, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999830903 XXXX 1759999830903, Thread 629: XXXX 1759999830903, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999830905 XXXX 1759999830905, Thread 629: XXXX 1759999830905, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831013 XXXX 1759999831013, Thread 629: XXXX 1759999831013, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831015 XXXX 1759999831015, Thread 629: XXXX 1759999831015, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831121 XXXX 1759999831121, Thread 629: XXXX 1759999831121, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831123 XXXX 1759999831123, Thread 629: XXXX 1759999831123, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831231 XXXX 1759999831231, Thread 629: XXXX 1759999831231, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831233 XXXX 1759999831233, Thread 629: XXXX 1759999831233, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831339 XXXX 1759999831339, Thread 629: XXXX 1759999831339, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831341 XXXX 1759999831341, Thread 629: XXXX 1759999831341, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831450 XXXX 1759999831450, Thread 629: XXXX 1759999831450, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831452 XXXX 1759999831452, Thread 629: XXXX 1759999831452, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831555 XXXX 1759999831555, Thread 629: XXXX 1759999831555, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831558 XXXX 1759999831558, Thread 629: XXXX 1759999831558, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831661 XXXX 1759999831661, Thread 629: XXXX 1759999831661, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831663 XXXX 1759999831663, Thread 629: XXXX 1759999831663, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831771 XXXX 1759999831771, Thread 629: XXXX 1759999831771, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831774 XXXX 1759999831774, Thread 629: XXXX 1759999831774, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831887 XXXX 1759999831887, Thread 629: XXXX 1759999831887, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831889 XXXX 1759999831889, Thread 629: XXXX 1759999831889, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999831988 XXXX 1759999831988, Thread 629: XXXX 1759999831988, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999831990 XXXX 1759999831990, Thread 629: XXXX 1759999831990, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832099 XXXX 1759999832099, Thread 629: XXXX 1759999832099, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832101 XXXX 1759999832101, Thread 629: XXXX 1759999832101, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832205 XXXX 1759999832205, Thread 629: XXXX 1759999832205, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832207 XXXX 1759999832207, Thread 629: XXXX 1759999832207, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832308 XXXX 1759999832308, Thread 629: XXXX 1759999832308, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832310 XXXX 1759999832310, Thread 629: XXXX 1759999832310, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832413 XXXX 1759999832413, Thread 629: XXXX 1759999832413, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832415 XXXX 1759999832415, Thread 629: XXXX 1759999832415, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832516 XXXX 1759999832516, Thread 629: XXXX 1759999832516, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832518 XXXX 1759999832518, Thread 629: XXXX 1759999832518, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832624 XXXX 1759999832624, Thread 629: XXXX 1759999832624, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832627 XXXX 1759999832627, Thread 629: XXXX 1759999832627, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832725 XXXX 1759999832725, Thread 629: XXXX 1759999832725, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832727 XXXX 1759999832727, Thread 629: XXXX 1759999832727, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832836 XXXX 1759999832836, Thread 629: XXXX 1759999832836, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832838 XXXX 1759999832838, Thread 629: XXXX 1759999832838, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999832942 XXXX 1759999832942, Thread 629: XXXX 1759999832942, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999832944 XXXX 1759999832944, Thread 629: XXXX 1759999832944, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833052 XXXX 1759999833052, Thread 629: XXXX 1759999833052, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833054 XXXX 1759999833054, Thread 629: XXXX 1759999833054, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833158 XXXX 1759999833158, Thread 629: XXXX 1759999833158, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833160 XXXX 1759999833160, Thread 629: XXXX 1759999833160, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833271 XXXX 1759999833271, Thread 629: XXXX 1759999833271, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833273 XXXX 1759999833273, Thread 629: XXXX 1759999833273, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833381 XXXX 1759999833381, Thread 629: XXXX 1759999833381, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833383 XXXX 1759999833383, Thread 629: XXXX 1759999833383, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833491 XXXX 1759999833491, Thread 629: XXXX 1759999833491, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833493 XXXX 1759999833493, Thread 629: XXXX 1759999833493, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833602 XXXX 1759999833602, Thread 629: XXXX 1759999833602, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833604 XXXX 1759999833604, Thread 629: XXXX 1759999833604, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833713 XXXX 1759999833713, Thread 629: XXXX 1759999833713, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833715 XXXX 1759999833715, Thread 629: XXXX 1759999833715, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833820 XXXX 1759999833820, Thread 629: XXXX 1759999833820, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833822 XXXX 1759999833822, Thread 629: XXXX 1759999833822, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999833931 XXXX 1759999833931, Thread 629: XXXX 1759999833931, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999833933 XXXX 1759999833933, Thread 629: XXXX 1759999833933, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834041 XXXX 1759999834041, Thread 629: XXXX 1759999834041, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834043 XXXX 1759999834043, Thread 629: XXXX 1759999834043, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834152 XXXX 1759999834152, Thread 629: XXXX 1759999834152, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834154 XXXX 1759999834154, Thread 629: XXXX 1759999834154, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834258 XXXX 1759999834258, Thread 629: XXXX 1759999834258, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834259 XXXX 1759999834259, Thread 629: XXXX 1759999834259, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834370 XXXX 1759999834370, Thread 629: XXXX 1759999834370, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834372 XXXX 1759999834372, Thread 629: XXXX 1759999834372, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834480 XXXX 1759999834480, Thread 629: XXXX 1759999834480, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834482 XXXX 1759999834482, Thread 629: XXXX 1759999834482, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834590 XXXX 1759999834590, Thread 629: XXXX 1759999834590, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834592 XXXX 1759999834592, Thread 629: XXXX 1759999834592, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834701 XXXX 1759999834701, Thread 629: XXXX 1759999834701, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834703 XXXX 1759999834703, Thread 629: XXXX 1759999834703, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834807 XXXX 1759999834807, Thread 629: XXXX 1759999834807, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834809 XXXX 1759999834809, Thread 629: XXXX 1759999834809, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999834919 XXXX 1759999834919, Thread 629: XXXX 1759999834919, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999834921 XXXX 1759999834921, Thread 629: XXXX 1759999834921, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835029 XXXX 1759999835029, Thread 629: XXXX 1759999835029, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835031 XXXX 1759999835031, Thread 629: XXXX 1759999835031, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835140 XXXX 1759999835140, Thread 629: XXXX 1759999835140, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835142 XXXX 1759999835142, Thread 629: XXXX 1759999835142, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835250 XXXX 1759999835250, Thread 629: XXXX 1759999835250, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835252 XXXX 1759999835252, Thread 629: XXXX 1759999835252, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835359 XXXX 1759999835359, Thread 629: XXXX 1759999835359, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835361 XXXX 1759999835361, Thread 629: XXXX 1759999835361, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835476 XXXX 1759999835476, Thread 629: XXXX 1759999835476, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835478 XXXX 1759999835478, Thread 629: XXXX 1759999835478, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835590 XXXX 1759999835590, Thread 629: XXXX 1759999835590, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835592 XXXX 1759999835592, Thread 629: XXXX 1759999835592, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835701 XXXX 1759999835701, Thread 629: XXXX 1759999835701, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835703 XXXX 1759999835703, Thread 629: XXXX 1759999835703, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835810 XXXX 1759999835810, Thread 629: XXXX 1759999835810, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835812 XXXX 1759999835812, Thread 629: XXXX 1759999835812, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999835923 XXXX 1759999835923, Thread 629: XXXX 1759999835923, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999835925 XXXX 1759999835925, Thread 629: XXXX 1759999835925, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836033 XXXX 1759999836033, Thread 629: XXXX 1759999836033, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836035 XXXX 1759999836035, Thread 629: XXXX 1759999836035, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836144 XXXX 1759999836144, Thread 629: XXXX 1759999836144, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836146 XXXX 1759999836146, Thread 629: XXXX 1759999836146, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836254 XXXX 1759999836254, Thread 629: XXXX 1759999836254, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836256 XXXX 1759999836256, Thread 629: XXXX 1759999836256, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836360 XXXX 1759999836360, Thread 629: XXXX 1759999836360, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836361 XXXX 1759999836361, Thread 629: XXXX 1759999836361, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836472 XXXX 1759999836472, Thread 629: XXXX 1759999836472, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836476 XXXX 1759999836476, Thread 629: XXXX 1759999836476, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836582 XXXX 1759999836582, Thread 629: XXXX 1759999836582, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836584 XXXX 1759999836584, Thread 629: XXXX 1759999836584, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836693 XXXX 1759999836693, Thread 629: XXXX 1759999836693, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836695 XXXX 1759999836695, Thread 629: XXXX 1759999836695, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836803 XXXX 1759999836803, Thread 629: XXXX 1759999836803, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836805 XXXX 1759999836805, Thread 629: XXXX 1759999836805, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999836911 XXXX 1759999836911, Thread 629: XXXX 1759999836911, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999836912 XXXX 1759999836912, Thread 629: XXXX 1759999836912, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837022 XXXX 1759999837022, Thread 629: XXXX 1759999837022, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837024 XXXX 1759999837024, Thread 629: XXXX 1759999837024, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837126 XXXX 1759999837126, Thread 629: XXXX 1759999837126, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837128 XXXX 1759999837128, Thread 629: XXXX 1759999837128, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837238 XXXX 1759999837238, Thread 629: XXXX 1759999837238, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837240 XXXX 1759999837240, Thread 629: XXXX 1759999837240, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837349 XXXX 1759999837349, Thread 629: XXXX 1759999837349, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837351 XXXX 1759999837351, Thread 629: XXXX 1759999837351, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837458 XXXX 1759999837458, Thread 629: XXXX 1759999837458, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837461 XXXX 1759999837461, Thread 629: XXXX 1759999837461, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837571 XXXX 1759999837571, Thread 629: XXXX 1759999837571, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837573 XXXX 1759999837573, Thread 629: XXXX 1759999837573, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837681 XXXX 1759999837681, Thread 629: XXXX 1759999837681, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837683 XXXX 1759999837683, Thread 629: XXXX 1759999837683, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837791 XXXX 1759999837791, Thread 629: XXXX 1759999837791, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837793 XXXX 1759999837793, Thread 629: XXXX 1759999837793, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999837902 XXXX 1759999837902, Thread 629: XXXX 1759999837902, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999837904 XXXX 1759999837904, Thread 629: XXXX 1759999837904, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838009 XXXX 1759999838009, Thread 629: XXXX 1759999838009, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838011 XXXX 1759999838011, Thread 629: XXXX 1759999838011, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838119 XXXX 1759999838119, Thread 629: XXXX 1759999838119, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838121 XXXX 1759999838121, Thread 629: XXXX 1759999838121, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838230 XXXX 1759999838230, Thread 629: XXXX 1759999838230, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838232 XXXX 1759999838232, Thread 629: XXXX 1759999838232, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838340 XXXX 1759999838340, Thread 629: XXXX 1759999838340, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838342 XXXX 1759999838342, Thread 629: XXXX 1759999838342, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838451 XXXX 1759999838451, Thread 629: XXXX 1759999838451, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838451 XXXX 1759999838451, Thread 629: XXXX 1759999838451, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838559 XXXX 1759999838559, Thread 629: XXXX 1759999838559, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838561 XXXX 1759999838561, Thread 629: XXXX 1759999838561, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838669 XXXX 1759999838669, Thread 629: XXXX 1759999838669, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838671 XXXX 1759999838671, Thread 629: XXXX 1759999838671, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838779 XXXX 1759999838779, Thread 629: XXXX 1759999838779, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838781 XXXX 1759999838781, Thread 629: XXXX 1759999838781, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838890 XXXX 1759999838890, Thread 629: XXXX 1759999838890, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838892 XXXX 1759999838892, Thread 629: XXXX 1759999838892, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999838995 XXXX 1759999838995, Thread 629: XXXX 1759999838995, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999838997 XXXX 1759999838997, Thread 629: XXXX 1759999838997, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839108 XXXX 1759999839108, Thread 629: XXXX 1759999839108, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839110 XXXX 1759999839110, Thread 629: XXXX 1759999839110, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839218 XXXX 1759999839218, Thread 629: XXXX 1759999839218, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839220 XXXX 1759999839220, Thread 629: XXXX 1759999839220, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839329 XXXX 1759999839329, Thread 629: XXXX 1759999839329, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839331 XXXX 1759999839331, Thread 629: XXXX 1759999839331, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839439 XXXX 1759999839439, Thread 629: XXXX 1759999839439, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839441 XXXX 1759999839441, Thread 629: XXXX 1759999839441, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839544 XXXX 1759999839544, Thread 629: XXXX 1759999839544, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839547 XXXX 1759999839547, Thread 629: XXXX 1759999839547, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839658 XXXX 1759999839658, Thread 629: XXXX 1759999839658, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839660 XXXX 1759999839660, Thread 629: XXXX 1759999839660, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839768 XXXX 1759999839768, Thread 629: XXXX 1759999839768, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839770 XXXX 1759999839770, Thread 629: XXXX 1759999839770, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839878 XXXX 1759999839878, Thread 629: XXXX 1759999839878, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839880 XXXX 1759999839880, Thread 629: XXXX 1759999839880, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999839989 XXXX 1759999839989, Thread 629: XXXX 1759999839989, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999839991 XXXX 1759999839991, Thread 629: XXXX 1759999839991, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840096 XXXX 1759999840096, Thread 629: XXXX 1759999840096, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840098 XXXX 1759999840098, Thread 629: XXXX 1759999840098, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840206 XXXX 1759999840206, Thread 629: XXXX 1759999840206, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840208 XXXX 1759999840208, Thread 629: XXXX 1759999840208, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840316 XXXX 1759999840316, Thread 629: XXXX 1759999840316, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840318 XXXX 1759999840318, Thread 629: XXXX 1759999840318, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840427 XXXX 1759999840427, Thread 629: XXXX 1759999840427, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840429 XXXX 1759999840429, Thread 629: XXXX 1759999840429, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840537 XXXX 1759999840537, Thread 629: XXXX 1759999840537, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840539 XXXX 1759999840539, Thread 629: XXXX 1759999840539, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840645 XXXX 1759999840645, Thread 629: XXXX 1759999840645, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840647 XXXX 1759999840647, Thread 629: XXXX 1759999840647, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840756 XXXX 1759999840756, Thread 629: XXXX 1759999840756, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840758 XXXX 1759999840758, Thread 629: XXXX 1759999840758, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840866 XXXX 1759999840866, Thread 629: XXXX 1759999840866, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840868 XXXX 1759999840868, Thread 629: XXXX 1759999840868, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999840976 XXXX 1759999840976, Thread 629: XXXX 1759999840976, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999840978 XXXX 1759999840978, Thread 629: XXXX 1759999840978, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841087 XXXX 1759999841087, Thread 629: XXXX 1759999841087, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841089 XXXX 1759999841089, Thread 629: XXXX 1759999841089, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841195 XXXX 1759999841195, Thread 629: XXXX 1759999841195, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841197 XXXX 1759999841197, Thread 629: XXXX 1759999841197, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841305 XXXX 1759999841305, Thread 629: XXXX 1759999841305, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841307 XXXX 1759999841307, Thread 629: XXXX 1759999841307, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841415 XXXX 1759999841415, Thread 629: XXXX 1759999841415, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841417 XXXX 1759999841417, Thread 629: XXXX 1759999841417, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841526 XXXX 1759999841526, Thread 629: XXXX 1759999841526, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841528 XXXX 1759999841528, Thread 629: XXXX 1759999841528, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841637 XXXX 1759999841637, Thread 629: XXXX 1759999841637, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841639 XXXX 1759999841639, Thread 629: XXXX 1759999841639, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841744 XXXX 1759999841744, Thread 629: XXXX 1759999841744, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841746 XXXX 1759999841746, Thread 629: XXXX 1759999841746, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841854 XXXX 1759999841854, Thread 629: XXXX 1759999841854, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841856 XXXX 1759999841856, Thread 629: XXXX 1759999841856, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999841965 XXXX 1759999841965, Thread 629: XXXX 1759999841965, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999841967 XXXX 1759999841967, Thread 629: XXXX 1759999841967, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842075 XXXX 1759999842075, Thread 629: XXXX 1759999842075, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842077 XXXX 1759999842077, Thread 629: XXXX 1759999842077, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842181 XXXX 1759999842181, Thread 629: XXXX 1759999842181, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842183 XXXX 1759999842183, Thread 629: XXXX 1759999842183, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842294 XXXX 1759999842294, Thread 629: XXXX 1759999842294, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842296 XXXX 1759999842296, Thread 629: XXXX 1759999842296, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842404 XXXX 1759999842404, Thread 629: XXXX 1759999842404, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842406 XXXX 1759999842406, Thread 629: XXXX 1759999842406, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842514 XXXX 1759999842514, Thread 629: XXXX 1759999842514, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842516 XXXX 1759999842516, Thread 629: XXXX 1759999842516, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842625 XXXX 1759999842625, Thread 629: XXXX 1759999842625, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842627 XXXX 1759999842627, Thread 629: XXXX 1759999842627, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842731 XXXX 1759999842731, Thread 629: XXXX 1759999842731, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842732 XXXX 1759999842732, Thread 629: XXXX 1759999842732, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842842 XXXX 1759999842842, Thread 629: XXXX 1759999842842, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842844 XXXX 1759999842844, Thread 629: XXXX 1759999842844, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999842953 XXXX 1759999842953, Thread 629: XXXX 1759999842953, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999842955 XXXX 1759999842955, Thread 629: XXXX 1759999842955, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843063 XXXX 1759999843063, Thread 629: XXXX 1759999843063, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843065 XXXX 1759999843065, Thread 629: XXXX 1759999843065, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843173 XXXX 1759999843173, Thread 629: XXXX 1759999843173, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843175 XXXX 1759999843175, Thread 629: XXXX 1759999843175, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843281 XXXX 1759999843281, Thread 629: XXXX 1759999843281, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843283 XXXX 1759999843283, Thread 629: XXXX 1759999843283, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843392 XXXX 1759999843392, Thread 629: XXXX 1759999843392, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843394 XXXX 1759999843394, Thread 629: XXXX 1759999843394, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843502 XXXX 1759999843502, Thread 629: XXXX 1759999843502, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843504 XXXX 1759999843504, Thread 629: XXXX 1759999843504, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843613 XXXX 1759999843613, Thread 629: XXXX 1759999843613, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843615 XXXX 1759999843615, Thread 629: XXXX 1759999843615, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843723 XXXX 1759999843723, Thread 629: XXXX 1759999843723, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843725 XXXX 1759999843725, Thread 629: XXXX 1759999843725, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843831 XXXX 1759999843831, Thread 629: XXXX 1759999843831, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843833 XXXX 1759999843833, Thread 629: XXXX 1759999843833, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999843941 XXXX 1759999843941, Thread 629: XXXX 1759999843941, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999843943 XXXX 1759999843943, Thread 629: XXXX 1759999843943, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999844052 XXXX 1759999844052, Thread 629: XXXX 1759999844052, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999844054 XXXX 1759999844054, Thread 629: XXXX 1759999844054, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999844163 XXXX 1759999844163, Thread 629: XXXX 1759999844163, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999844165 XXXX 1759999844165, Thread 629: XXXX 1759999844165, Exiting Thread 629: Commands::runScriptBasic  
+629 1759999844273 XXXX 1759999844273, Thread 629: XXXX 1759999844273, Entering Thread 629: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+629 1759999844285 XXXX 1759999844285, Thread 629: com.Send returned false 
+629 1759999844285 XXXX 1759999844285, Thread 629: transfer: exception after writeHeaderAndGetResult null 
+629 1759999844285 XXXX 1759999844285, Thread 629: XXXX 1759999844285, Entering Thread 629: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
+629 1759999844285 XXXX 1759999844285, Thread 629: Send Abort Script Engine Command 
+629 1759999844285 XXXX 1759999844285, Thread 629: XXXX 1759999844285, Entering Thread 629: ToolCommUsb::killScriptEngine  
+629 1759999844295 XXXX 1759999844295, Thread 629: com.Send returned false 
+629 1759999844295 XXXX 1759999844295, Thread 629: Failed sending Abort Script Engine Command. Set nuclear option = true 
+629 1759999844295 XXXX 1759999844295, Thread 629: About to nuke 
+629 1759999844295 XXXX 1759999844295, Thread 629: XXXX 1759999844295, Entering Thread 629: ToolCommUsb::nuclearOption  
+629 1759999844307 XXXX 1759999844307, Thread 629: com.Send returned false 

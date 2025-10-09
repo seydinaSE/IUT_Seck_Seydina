@@ -35,6 +35,7 @@ void InitIO()
      _TRISA0 = 0; // LED Blanche
     
     
+     _TRISJ10 = 0; // EN PWM
 
     
     //****** Moteurs ************************

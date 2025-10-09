@@ -15,6 +15,8 @@
 #define LED_V_1 _LATK15
 #define LED_Bl_1 _LATA0
 
+#define EN_PWM _LATJ10
+
 // Prototypes fonctions
 void InitIO();
 void LockIO();
