@@ -472,7 +472,7 @@ usercode
 
 __FGS             0xf80004          0x2
  *(__FGS.sec*)
- __FGS.sec        0xf80004          0x2 /CW/_FGS9^
+ __FGS.sec        0xf80004          0x2 /CW/_FGS–èc
                   0xf80004                  __FGS.sec
 
 __FOSCSEL
@@ -3507,7 +3507,7 @@ LOAD c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libm-elf.a
 LOAD c:/program files/microchip/xc16/v2.10/bin/bin/../../lib\libc99-elf.a
 END GROUP
 OUTPUT(dist/default/production/Robot_Phamngoc_Michel.X.production.elf elf32-pic30)
-LOAD /CW/_FGS9^
+LOAD /CW/_FGS–èc
 LOAD default_isr
 LOAD data_init
 
