@@ -74,40 +74,43 @@ int main(void) {
 
 
 
-            if (robotState.distanceTelemetreGauche1 < 25) {
+            if (robotState.distanceTelemetreGauche1 < 30) {
                 LED_BLANCHE_1 = 1;
                 Capteur = Capteur | 0x10;
             } else {
                 LED_BLANCHE_1 = 0;
                 Capteur = Capteur & 0b01111;
             }
-            if (robotState.distanceTelemetreGauche < 32) {
+            if (robotState.distanceTelemetreGauche < 30) {
                 LED_BLEUE_1 = 1;
                 Capteur = Capteur | 0b01000;
             } else {
                 LED_BLEUE_1 = 0;
                 Capteur = Capteur & 0b10111;
             }
-            if (robotState.distanceTelemetreCentre < 32) {
+            if (robotState.distanceTelemetreCentre < 35) {
                 LED_ORANGE_1 = 1;
                 Capteur = Capteur | 0b00100;
             } else {
                 LED_ORANGE_1 = 0;
                 Capteur = Capteur & 0b11011;
             }
-            if (robotState.distanceTelemetreDroit < 32) {
+            if (robotState.distanceTelemetreDroit < 30) {
                 LED_ROUGE_1 = 1;
                 Capteur = Capteur | 0b00010;
             } else {
                 LED_ROUGE_1 = 0;
                 Capteur = Capteur & 0b11101;
             }
-            if (robotState.distanceTelemetreDroit1 < 25) {
+            if (robotState.distanceTelemetreDroit1 < 30) {
                 LED_VERTE_1 = 1;
                 Capteur = Capteur | 0b00001;
             } else {
                 LED_VERTE_1 = 0;
                 Capteur = Capteur & 0b11110;
+            }
+            if(robotState.distanceTelemetreCentre > 35 && robotState.distanceTelemetreGauche > 20 && robotState.distanceTelemetreDroit > 20 && robotState.distanceTelemetreDroit1 > 20 && robotState.distanceTelemetreGauche1 > 20){
+                Capteur =  0b10001;
             }
         }
 
@@ -147,7 +150,7 @@ void OperatingSystemLoop(void) {
             SetNextRobotStateInAutomaticMode();
             break;
         case STATE_TOURNE_GAUCHE:
-            PWMSetSpeedConsigne(30, MOTEUR_DROIT);
+            PWMSetSpeedConsigne(10, MOTEUR_DROIT);
             PWMSetSpeedConsigne(0, MOTEUR_GAUCHE);
             stateRobot = STATE_TOURNE_GAUCHE_EN_COURS;
             break;
@@ -156,23 +159,23 @@ void OperatingSystemLoop(void) {
             break;
         case STATE_TOURNE_DROITE:
             PWMSetSpeedConsigne(0, MOTEUR_DROIT);
-            PWMSetSpeedConsigne(30, MOTEUR_GAUCHE);
+            PWMSetSpeedConsigne(10, MOTEUR_GAUCHE);
             stateRobot = STATE_TOURNE_DROITE_EN_COURS;
             break;
         case STATE_TOURNE_DROITE_EN_COURS:
             SetNextRobotStateInAutomaticMode();
             break;
         case STATE_TOURNE_SUR_PLACE_GAUCHE:
-            PWMSetSpeedConsigne(15, MOTEUR_DROIT);
-            PWMSetSpeedConsigne(-15, MOTEUR_GAUCHE);
+            PWMSetSpeedConsigne(12, MOTEUR_DROIT);
+            PWMSetSpeedConsigne(-12, MOTEUR_GAUCHE);
             stateRobot = STATE_TOURNE_SUR_PLACE_GAUCHE_EN_COURS;
             break;
         case STATE_TOURNE_SUR_PLACE_GAUCHE_EN_COURS:
             SetNextRobotStateInAutomaticMode();
             break;
         case STATE_TOURNE_SUR_PLACE_DROITE:
-            PWMSetSpeedConsigne(-15, MOTEUR_DROIT);
-            PWMSetSpeedConsigne(15, MOTEUR_GAUCHE);
+            PWMSetSpeedConsigne(-12, MOTEUR_DROIT);
+            PWMSetSpeedConsigne(12, MOTEUR_GAUCHE);
             stateRobot = STATE_TOURNE_SUR_PLACE_DROITE_EN_COURS;
             break;
         case STATE_TOURNE_SUR_PLACE_DROITE_EN_COURS:
