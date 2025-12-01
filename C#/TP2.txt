@@ -1,0 +1,4 @@
+Exécutez le programme et cliquez sur le bouton Envoyer. Que constatez vous ? Que se passe-t-il si l’on
+appuie plusieurs fois sur le bouton Envoyer ? Commentez. 
+
+Lorsqu'on passe la souris au dessus du bouton envoyer il s'illumine en RoyalBlue

@@ -26,7 +26,7 @@ int main(void) {
     InitTimer4();
     //InitTimer23();
     
-    EN_PWM=1;
+    //EN_PWM=1;
 
 
 
@@ -74,35 +74,35 @@ int main(void) {
 
 
 
-            if (robotState.distanceTelemetreGauche1 < 30) {
+            if (robotState.distanceTelemetreGauche1 < 35) {
                 LED_BLANCHE_1 = 1;
                 Capteur = Capteur | 0x10;
             } else {
                 LED_BLANCHE_1 = 0;
                 Capteur = Capteur & 0b01111;
             }
-            if (robotState.distanceTelemetreGauche < 30) {
+            if (robotState.distanceTelemetreGauche < 35) {
                 LED_BLEUE_1 = 1;
                 Capteur = Capteur | 0b01000;
             } else {
                 LED_BLEUE_1 = 0;
                 Capteur = Capteur & 0b10111;
             }
-            if (robotState.distanceTelemetreCentre < 35) {
+            if (robotState.distanceTelemetreCentre < 40) {
                 LED_ORANGE_1 = 1;
                 Capteur = Capteur | 0b00100;
             } else {
                 LED_ORANGE_1 = 0;
                 Capteur = Capteur & 0b11011;
             }
-            if (robotState.distanceTelemetreDroit < 30) {
+            if (robotState.distanceTelemetreDroit < 35) {
                 LED_ROUGE_1 = 1;
                 Capteur = Capteur | 0b00010;
             } else {
                 LED_ROUGE_1 = 0;
                 Capteur = Capteur & 0b11101;
             }
-            if (robotState.distanceTelemetreDroit1 < 30) {
+            if (robotState.distanceTelemetreDroit1 < 35) {
                 LED_VERTE_1 = 1;
                 Capteur = Capteur | 0b00001;
             } else {
