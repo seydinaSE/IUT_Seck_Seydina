@@ -20,7 +20,7 @@ void InitPWM(void) {
     /* Enable PWM Module */
     PTCONbits.PTEN = 1;
 }
-float acceleration=0.25;
+float acceleration=30;
 double talon = 50; //le talon c est le temps minimum de synchronisation entre la pwm du moteur et le microcontroleur
 /*
 void PWMSetSpeed(float vitesseEnPourcents, float moteur) {

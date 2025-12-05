@@ -15,7 +15,12 @@
 #include "ADC.h"
 #include "Robot.h"
 #include "main.h"
+#include "CB_TX1.h"
+#include "CB_RX1.h"
+#include "libpic30.h"
+//
 int Capteur;
+
 
 int main(void) {
     InitOscillator();
@@ -24,16 +29,26 @@ int main(void) {
     InitPWM();
     InitTimer1();
     InitTimer4();
+    InitUART();
     //InitTimer23();
     
-    //EN_PWM=1;
+    EN_PWM=1;
 
 
+     //SendMessageDirect((unsigned char*) "Bonjour", 7);
 
-
-
+ 
     while (1) {
+      
+int i;
+for(i=0; i< CB_RX1_GetDataSize(); i++)
+{
+unsigned char c = CB_RX1_Get();
+SendMessage(&c,1);
+}
+__delay32(1000);
 
+        
         /*  
              // unsigned int  AResult[] =ADCGetResult();  
            if (AResult[0] < 1084) {
@@ -56,6 +71,10 @@ int main(void) {
 
           LED_ORANGE_1 = 0;
       }*/
+
+
+
+
         if (ADCIsConversionFinished()) { //fin de l'aquisition du convertisseur
             ADCClearConversionFinishedFlag(); // on enleve le flag pour pouvoir faire une nouvelle conversion
             unsigned int * result = ADCGetResult(); //création d'un pointeur pour récupérer les données 
@@ -74,14 +93,14 @@ int main(void) {
 
 
 
-            if (robotState.distanceTelemetreGauche1 < 35) {
+            if (robotState.distanceTelemetreGauche1 < 30) {
                 LED_BLANCHE_1 = 1;
                 Capteur = Capteur | 0x10;
             } else {
                 LED_BLANCHE_1 = 0;
                 Capteur = Capteur & 0b01111;
             }
-            if (robotState.distanceTelemetreGauche < 35) {
+            if (robotState.distanceTelemetreGauche < 32) {
                 LED_BLEUE_1 = 1;
                 Capteur = Capteur | 0b01000;
             } else {
@@ -95,14 +114,14 @@ int main(void) {
                 LED_ORANGE_1 = 0;
                 Capteur = Capteur & 0b11011;
             }
-            if (robotState.distanceTelemetreDroit < 35) {
+            if (robotState.distanceTelemetreDroit < 32) {
                 LED_ROUGE_1 = 1;
                 Capteur = Capteur | 0b00010;
             } else {
                 LED_ROUGE_1 = 0;
                 Capteur = Capteur & 0b11101;
             }
-            if (robotState.distanceTelemetreDroit1 < 35) {
+            if (robotState.distanceTelemetreDroit1 < 30) {
                 LED_VERTE_1 = 1;
                 Capteur = Capteur | 0b00001;
             } else {
@@ -203,7 +222,7 @@ void SetNextRobotStateInAutomaticMode() {
 
 
     else if (Capteur == 0b00010) //Obstacle àdroite
-        positionObstacle = OBSTACLE_A_DROITE;
+        positionObstacle = OBSTACLE_A_DROITE_1;
 
     else if (Capteur == 0b00100)
         positionObstacle = OBSTACLE_EN_FACE;
@@ -212,7 +231,7 @@ void SetNextRobotStateInAutomaticMode() {
     else if (Capteur == 0b01000) //Obstacle àgauche
         positionObstacle = OBSTACLE_A_GAUCHE;
     else if (Capteur == 0b10000) //Obstacle àgauche
-        positionObstacle = OBSTACLE_A_GAUCHE_1;
+        positionObstacle = OBSTACLE_EN_FACE;
 
 
 
@@ -222,13 +241,13 @@ void SetNextRobotStateInAutomaticMode() {
     else if (Capteur == 0b11011) //Obstacle àgauche
         positionObstacle = OBSTACLE_EN_FACE;
     else if (Capteur == 0b11000) //Obstacle àgauche
-        positionObstacle = OBSTACLE_A_GAUCHE;
+        positionObstacle = OBSTACLE_EN_FACE;
     else if (Capteur == 0b11100) //Obstacle àgauche
         positionObstacle = OBSTACLE_EN_FACE;
     else if (Capteur == 0b11110) //Obstacle àgauche
         positionObstacle = OBSTACLE_EN_FACE;
     else if (Capteur == 0b00011) //Obstacle àgauche
-        positionObstacle = OBSTACLE_A_DROITE;
+        positionObstacle = OBSTACLE_A_DROITE_1;
     else if (Capteur == 0b00111) //Obstacle àgauche
         positionObstacle = OBSTACLE_A_DROITE_1;
     else if (Capteur == 0b01111) //Obstacle àgauche
@@ -262,14 +281,14 @@ void SetNextRobotStateInAutomaticMode() {
         positionObstacle = OBSTACLE_EN_FACE;
 
     else if (Capteur == 0b11101) //Obstacle àgauche
-        positionObstacle = OBSTACLE_A_DROITE;
+        positionObstacle = OBSTACLE_EN_FACE;
     else if (Capteur == 0b10111) //Obstacle àgauche
         positionObstacle = OBSTACLE_A_GAUCHE;
 
     else if (Capteur == 0b11010) //Obstacle àgauche
         positionObstacle = OBSTACLE_A_DROITE_1;
     else if (Capteur == 0b01110) //Obstacle àgauche
-        positionObstacle = OBSTACLE_EN_FACE;
+        positionObstacle = OBSTACLE_A_DROITE_1;
 
 
     else if (Capteur == 0b01101) //Obstacle àgauche

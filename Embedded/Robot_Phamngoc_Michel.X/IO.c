@@ -47,8 +47,9 @@ void InitIO()
     // Gestion des pin remappables
     /****************************************************************************************************/
     UnlockIO(); // On unlock les registres d'entrées/sorties, ainsi que les registres des PPS
-    
-    //Assignation des remappable pins
+    _U1RXR = 78; //Remappe la RP... sur l?éentre Rx1
+    _RP79R = 0b00001; //Remappe la sortie Tx1 vers RP... 
+   //Assignation des remappable pins
         
     LockIO(); // On lock les registres d'entrées/sorties, ainsi que les registres des PPS
 }

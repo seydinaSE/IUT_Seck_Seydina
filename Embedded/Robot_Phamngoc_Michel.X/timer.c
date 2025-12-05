@@ -17,7 +17,7 @@ void InitTimer1(void) {
     //00 = 1:1 prescale value
     T1CONbits.TCS = 0; //clock source = internal clock
     //PR1 = 0x249F;
-    SetFreqTimer(7000);
+    SetFreqTimer1(7000);
     IFS0bits.T1IF = 0; // Clear Timer Interrupt Flag
     IEC0bits.T1IE = 1; // Enable Timer interrupt
     T1CONbits.TON = 1; // Enable Timer
@@ -27,10 +27,10 @@ void InitTimer1(void) {
 void __attribute__((interrupt, no_auto_psv)) _T1Interrupt(void) {
     IFS0bits.T1IF = 0;
   
-  ADC1StartConversionSequence();
-  PWMUpdateSpeed();
+
+    ADC1StartConversionSequence();
+    PWMUpdateSpeed();
       
-  
 }
 //Interruption du timer 1
 void InitTimer4(void) {
