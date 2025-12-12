@@ -11,6 +11,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using ExtendedSerialPort_NS;
 using System.Windows.Threading;
+using System.Net.NetworkInformation;
 
 namespace RobotInterface
 {
@@ -72,6 +73,9 @@ namespace RobotInterface
             for (int i = 0; i < e.Data.Length; i++)
             {
                 robot.byteListReceived.Enqueue(e.Data[i]);
+                DecodeMessage(e.Data[i]);
+
+
 
             }
 
@@ -113,7 +117,7 @@ namespace RobotInterface
                 toogle = !toogle;
 
             }
-        }
+        }   
 
 
         private void ButtonClear_Click(object sender, RoutedEventArgs e)
@@ -123,6 +127,8 @@ namespace RobotInterface
 
         private void Test_Click(object sender, RoutedEventArgs e)
         {
+
+
             /*
             byte[] bytesliste = new byte[20];
             for (byte i = 0; i < 20; i++)
@@ -133,8 +139,10 @@ namespace RobotInterface
 
             serialPort1.Write(bytesliste, 0, bytesliste.Length);
             */
-            byte[] array = Encoding.ASCII.GetBytes("bonjour");
+            byte[] array = Encoding.ASCII.GetBytes("Bonjour");
+            byte[] array1 = Encoding.ASCII.GetBytes("1");
             UartEncodeAndSendMessage(128, array.Length, array);
+            UartEncodeAndSendMessage(32, array1.Length, array1);
 
 
 
@@ -163,6 +171,8 @@ namespace RobotInterface
 
 
         }
+       
+
         void UartEncodeAndSendMessage(int msgFunction, int msgPayloadLength, byte[] msgPayload)
         {
             byte[] trame = new byte[msgPayloadLength+6];
@@ -191,6 +201,56 @@ namespace RobotInterface
         }
 
 
+
+
+        void ProcessDecodedMessage(int msgFunction, int msgPayloadLength, byte[] msgPayload)
+        {
+            switch(msgFunction)
+            {
+                case 0x0080:
+                    TextBoxréception.Text = "Text recu :"+ Encoding.UTF8.GetString(msgPayload, 0, msgPayload.Length);
+              
+
+                    break;
+                case 0x0020:
+
+
+
+                    TextBoxréception.Text = "LED " + Encoding.UTF8.GetString(msgPayload, 0, 1);
+
+                    break;
+                case 0x0030:
+
+
+
+                 
+
+                    break;
+                case 0x0040:
+
+
+
+                   
+                    break;
+
+
+
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+        }
+
+
         public enum StateReception
         {
             Waiting,
@@ -202,39 +262,84 @@ Payload,
 CheckSum
 }
 StateReception rcvState = StateReception.Waiting;
-int msgDecodedFunction = 0;
-int msgDecodedPayloadLength = 0;
+        int msgDecodedFunction = 0;
+        static int b = 0;
+        int msgDecodedPayloadLength = 0;
 byte[] msgDecodedPayload;
 int msgDecodedPayloadIndex = 0;
-private void DecodeMessage(byte c)
+       
+
+        
+        private void DecodeMessage(byte c)
 {
+           
 switch(rcvState)
 {
 case StateReception.Waiting:
-...
+    
+    if (c == 0xFE)
+        rcvState = StateReception.FunctionMSB;
+
+
 break;
 case StateReception.FunctionMSB:
-...
+                   // if (msgDecodedPayload == "00")
+                   //c byte or 00 string
+                        if (c == 0x00)
+                        {
+                  
+                        rcvState = StateReception.FunctionLSB;
+                    } else
+                        rcvState = StateReception.Waiting;
+
+
+
 break;
 case StateReception.FunctionLSB:
-...
-break;
+                    msgDecodedFunction = c;
+                
+                    rcvState = StateReception.PayloadLengthMSB;
+                    break;
 case StateReception.PayloadLengthMSB:
-...
+                    msgDecodedPayloadLength = (c<<8);
+                    rcvState= StateReception.PayloadLengthLSB;
+
+
+
 break;
 case StateReception.PayloadLengthLSB:
-...
-break;
+                    msgDecodedPayloadLength +=c;
+                    msgDecodedPayload=new byte[msgDecodedPayloadLength];
+                    rcvState = StateReception.Payload;
+                    break;
 case StateReception.Payload:
-...
+
+                    msgDecodedPayload[msgDecodedPayloadIndex] += c;
+                    msgDecodedPayloadIndex++;
+                    if (msgDecodedPayloadIndex >= msgDecodedPayloadLength)
+                    {
+                        rcvState = StateReception.CheckSum;
+                        msgDecodedPayloadIndex = 0;
+
+                    }
+
+                       
+
+                    
 break;
 case StateReception.CheckSum:
-...
-if (calculatedChecksum == receivedChecksum)
-{
-//Success, on a un message valide
-}
-...
+                    int receivedChecksum, calculatedChecksum= 0x00;
+                    
+                    receivedChecksum = c;
+                    calculatedChecksum = CalculateChecksum(msgDecodedFunction, msgDecodedPayloadLength,msgDecodedPayload);
+
+                    if (calculatedChecksum == receivedChecksum)
+                    {
+                        b = 1;
+                    }
+                    else
+                        b = 0;
+
 break;
 default:
 rcvState = StateReception.Waiting;
